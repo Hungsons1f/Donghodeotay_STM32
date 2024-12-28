@@ -1,0 +1,7 @@
+../Libraries/Firmware/Src/Rtc_ds1307_i2c.c:21:9:DecodeBCD	16	static
+../Libraries/Firmware/Src/Rtc_ds1307_i2c.c:25:9:EncodeBCD	16	static
+../Libraries/Firmware/Src/Rtc_ds1307_i2c.c:29:9:Rtc_SetRegByte	32	static
+../Libraries/Firmware/Src/Rtc_ds1307_i2c.c:35:9:Rtc_GetRegByte	32	static
+../Libraries/Firmware/Src/Rtc_ds1307_i2c.c:43:9:Rtc_GetTime	16	static
+../Libraries/Firmware/Src/Rtc_ds1307_i2c.c:76:9:Rtc_SetTime	16	static
+../Libraries/Firmware/Src/Rtc_ds1307_i2c.c:101:9:Rtc_Init	16	static

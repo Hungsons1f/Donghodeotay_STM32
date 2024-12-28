@@ -1,0 +1,2 @@
+../Libraries/Application/Src/Controller/StateCtrl.c:41:6:MainStateMachine	8	static
+../Libraries/Application/Src/Controller/StateCtrl.c:103:6:MainStateAction	8	static

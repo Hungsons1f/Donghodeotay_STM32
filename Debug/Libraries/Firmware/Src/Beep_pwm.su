@@ -1,0 +1,2 @@
+../Libraries/Firmware/Src/Beep_pwm.c:23:6:Beep_Init	16	static
+../Libraries/Firmware/Src/Beep_pwm.c:42:9:Beep_Run	16	static

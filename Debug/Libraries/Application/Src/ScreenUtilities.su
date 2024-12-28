@@ -1,0 +1,12 @@
+../Libraries/Application/Src/ScreenUtilities.c:26:6:GotoXP	16	static
+../Libraries/Application/Src/ScreenUtilities.c:32:6:NextPosition	16	static
+../Libraries/Application/Src/ScreenUtilities.c:47:6:WriteCol	16	static
+../Libraries/Application/Src/ScreenUtilities.c:53:6:WriteChar	24	static
+../Libraries/Application/Src/ScreenUtilities.c:60:6:WriteString	24	static
+../Libraries/Application/Src/ScreenUtilities.c:70:6:DeleteString	24	static
+../Libraries/Application/Src/ScreenUtilities.c:79:6:SolidFill	24	static
+../Libraries/Application/Src/ScreenUtilities.c:91:6:DrawBitmap	24	static
+../Libraries/Application/Src/ScreenUtilities.c:104:6:DrawIcon	24	static
+../Libraries/Application/Src/ScreenUtilities.c:111:6:DrawImage	24	static
+../Libraries/Application/Src/ScreenUtilities.c:126:6:InverseImage	32	static
+../Libraries/Application/Src/ScreenUtilities.c:140:6:UpdateScreen	16	static

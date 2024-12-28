@@ -1,0 +1,3 @@
+../Libraries/Firmware/Src/Led_gpio.c:21:6:Led_Bright1	16	static
+../Libraries/Firmware/Src/Led_gpio.c:25:6:Led_Bright2	16	static
+../Libraries/Firmware/Src/Led_gpio.c:29:6:Led_Init	24	static

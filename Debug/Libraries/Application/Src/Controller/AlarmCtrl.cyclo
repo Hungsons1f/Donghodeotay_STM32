@@ -1,0 +1,3 @@
+../Libraries/Application/Src/Controller/AlarmCtrl.c:20:9:CheckAlarm	5
+../Libraries/Application/Src/Controller/AlarmCtrl.c:52:6:AlarmStateAction	4
+../Libraries/Application/Src/Controller/AlarmCtrl.c:66:9:AlarmState	58
