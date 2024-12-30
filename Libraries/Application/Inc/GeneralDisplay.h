@@ -30,6 +30,9 @@
 static const uint8_t Datetype[][6] = {"Sun, ","Mon, ", "Tue, ", "Wed, ", "Thu, ", "Fri, ", "Sat, "};
 #endif
 
+#define BackToMenu					0
+#define StayInFunc					1
+
 /* Private function prototypes -----------------------------------------------*/
 void DispTopRightIcon(uint8_t* Gicon);
 void DispBotTime(volatile stDispTime *time, uint8_t State);

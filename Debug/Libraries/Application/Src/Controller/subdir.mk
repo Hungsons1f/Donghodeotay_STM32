@@ -6,18 +6,21 @@
 # Add inputs and outputs from these tool invocations to the build variables 
 C_SRCS += \
 ../Libraries/Application/Src/Controller/AlarmCtrl.c \
+../Libraries/Application/Src/Controller/FlashCtrl.c \
 ../Libraries/Application/Src/Controller/IdlingCtrl.c \
 ../Libraries/Application/Src/Controller/MenuCtrl.c \
 ../Libraries/Application/Src/Controller/StateCtrl.c 
 
 OBJS += \
 ./Libraries/Application/Src/Controller/AlarmCtrl.o \
+./Libraries/Application/Src/Controller/FlashCtrl.o \
 ./Libraries/Application/Src/Controller/IdlingCtrl.o \
 ./Libraries/Application/Src/Controller/MenuCtrl.o \
 ./Libraries/Application/Src/Controller/StateCtrl.o 
 
 C_DEPS += \
 ./Libraries/Application/Src/Controller/AlarmCtrl.d \
+./Libraries/Application/Src/Controller/FlashCtrl.d \
 ./Libraries/Application/Src/Controller/IdlingCtrl.d \
 ./Libraries/Application/Src/Controller/MenuCtrl.d \
 ./Libraries/Application/Src/Controller/StateCtrl.d 
@@ -30,7 +33,7 @@ Libraries/Application/Src/Controller/%.o Libraries/Application/Src/Controller/%.
 clean: clean-Libraries-2f-Application-2f-Src-2f-Controller
 
 clean-Libraries-2f-Application-2f-Src-2f-Controller:
-	-$(RM) ./Libraries/Application/Src/Controller/AlarmCtrl.cyclo ./Libraries/Application/Src/Controller/AlarmCtrl.d ./Libraries/Application/Src/Controller/AlarmCtrl.o ./Libraries/Application/Src/Controller/AlarmCtrl.su ./Libraries/Application/Src/Controller/IdlingCtrl.cyclo ./Libraries/Application/Src/Controller/IdlingCtrl.d ./Libraries/Application/Src/Controller/IdlingCtrl.o ./Libraries/Application/Src/Controller/IdlingCtrl.su ./Libraries/Application/Src/Controller/MenuCtrl.cyclo ./Libraries/Application/Src/Controller/MenuCtrl.d ./Libraries/Application/Src/Controller/MenuCtrl.o ./Libraries/Application/Src/Controller/MenuCtrl.su ./Libraries/Application/Src/Controller/StateCtrl.cyclo ./Libraries/Application/Src/Controller/StateCtrl.d ./Libraries/Application/Src/Controller/StateCtrl.o ./Libraries/Application/Src/Controller/StateCtrl.su
+	-$(RM) ./Libraries/Application/Src/Controller/AlarmCtrl.cyclo ./Libraries/Application/Src/Controller/AlarmCtrl.d ./Libraries/Application/Src/Controller/AlarmCtrl.o ./Libraries/Application/Src/Controller/AlarmCtrl.su ./Libraries/Application/Src/Controller/FlashCtrl.cyclo ./Libraries/Application/Src/Controller/FlashCtrl.d ./Libraries/Application/Src/Controller/FlashCtrl.o ./Libraries/Application/Src/Controller/FlashCtrl.su ./Libraries/Application/Src/Controller/IdlingCtrl.cyclo ./Libraries/Application/Src/Controller/IdlingCtrl.d ./Libraries/Application/Src/Controller/IdlingCtrl.o ./Libraries/Application/Src/Controller/IdlingCtrl.su ./Libraries/Application/Src/Controller/MenuCtrl.cyclo ./Libraries/Application/Src/Controller/MenuCtrl.d ./Libraries/Application/Src/Controller/MenuCtrl.o ./Libraries/Application/Src/Controller/MenuCtrl.su ./Libraries/Application/Src/Controller/StateCtrl.cyclo ./Libraries/Application/Src/Controller/StateCtrl.d ./Libraries/Application/Src/Controller/StateCtrl.o ./Libraries/Application/Src/Controller/StateCtrl.su
 
 .PHONY: clean-Libraries-2f-Application-2f-Src-2f-Controller
 

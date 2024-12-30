@@ -2465,7 +2465,6 @@ Discarded input sections
  .group         0x00000000        0xc ./Libraries/Application/Src/Controller/AlarmCtrl.o
  .group         0x00000000        0xc ./Libraries/Application/Src/Controller/AlarmCtrl.o
  .group         0x00000000        0xc ./Libraries/Application/Src/Controller/AlarmCtrl.o
- .group         0x00000000        0xc ./Libraries/Application/Src/Controller/AlarmCtrl.o
  .text          0x00000000        0x0 ./Libraries/Application/Src/Controller/AlarmCtrl.o
  .data          0x00000000        0x0 ./Libraries/Application/Src/Controller/AlarmCtrl.o
  .bss           0x00000000        0x0 ./Libraries/Application/Src/Controller/AlarmCtrl.o
@@ -2523,9 +2522,107 @@ Discarded input sections
  .debug_macro   0x00000000       0x22 ./Libraries/Application/Src/Controller/AlarmCtrl.o
  .debug_macro   0x00000000       0xa6 ./Libraries/Application/Src/Controller/AlarmCtrl.o
  .debug_macro   0x00000000       0x52 ./Libraries/Application/Src/Controller/AlarmCtrl.o
- .debug_macro   0x00000000       0x2e ./Libraries/Application/Src/Controller/AlarmCtrl.o
+ .debug_macro   0x00000000       0x3a ./Libraries/Application/Src/Controller/AlarmCtrl.o
  .debug_macro   0x00000000       0xa0 ./Libraries/Application/Src/Controller/AlarmCtrl.o
- .debug_macro   0x00000000       0x10 ./Libraries/Application/Src/Controller/AlarmCtrl.o
+ .group         0x00000000        0xc ./Libraries/Application/Src/Controller/FlashCtrl.o
+ .group         0x00000000        0xc ./Libraries/Application/Src/Controller/FlashCtrl.o
+ .group         0x00000000        0xc ./Libraries/Application/Src/Controller/FlashCtrl.o
+ .group         0x00000000        0xc ./Libraries/Application/Src/Controller/FlashCtrl.o
+ .group         0x00000000        0xc ./Libraries/Application/Src/Controller/FlashCtrl.o
+ .group         0x00000000        0xc ./Libraries/Application/Src/Controller/FlashCtrl.o
+ .group         0x00000000        0xc ./Libraries/Application/Src/Controller/FlashCtrl.o
+ .group         0x00000000        0xc ./Libraries/Application/Src/Controller/FlashCtrl.o
+ .group         0x00000000        0xc ./Libraries/Application/Src/Controller/FlashCtrl.o
+ .group         0x00000000        0xc ./Libraries/Application/Src/Controller/FlashCtrl.o
+ .group         0x00000000        0xc ./Libraries/Application/Src/Controller/FlashCtrl.o
+ .group         0x00000000        0xc ./Libraries/Application/Src/Controller/FlashCtrl.o
+ .group         0x00000000        0xc ./Libraries/Application/Src/Controller/FlashCtrl.o
+ .group         0x00000000        0xc ./Libraries/Application/Src/Controller/FlashCtrl.o
+ .group         0x00000000        0xc ./Libraries/Application/Src/Controller/FlashCtrl.o
+ .group         0x00000000        0xc ./Libraries/Application/Src/Controller/FlashCtrl.o
+ .group         0x00000000        0xc ./Libraries/Application/Src/Controller/FlashCtrl.o
+ .group         0x00000000        0xc ./Libraries/Application/Src/Controller/FlashCtrl.o
+ .group         0x00000000        0xc ./Libraries/Application/Src/Controller/FlashCtrl.o
+ .group         0x00000000        0xc ./Libraries/Application/Src/Controller/FlashCtrl.o
+ .group         0x00000000        0xc ./Libraries/Application/Src/Controller/FlashCtrl.o
+ .group         0x00000000        0xc ./Libraries/Application/Src/Controller/FlashCtrl.o
+ .group         0x00000000        0xc ./Libraries/Application/Src/Controller/FlashCtrl.o
+ .group         0x00000000        0xc ./Libraries/Application/Src/Controller/FlashCtrl.o
+ .group         0x00000000        0xc ./Libraries/Application/Src/Controller/FlashCtrl.o
+ .group         0x00000000        0xc ./Libraries/Application/Src/Controller/FlashCtrl.o
+ .group         0x00000000        0xc ./Libraries/Application/Src/Controller/FlashCtrl.o
+ .group         0x00000000        0xc ./Libraries/Application/Src/Controller/FlashCtrl.o
+ .group         0x00000000        0xc ./Libraries/Application/Src/Controller/FlashCtrl.o
+ .group         0x00000000        0xc ./Libraries/Application/Src/Controller/FlashCtrl.o
+ .group         0x00000000        0xc ./Libraries/Application/Src/Controller/FlashCtrl.o
+ .group         0x00000000        0xc ./Libraries/Application/Src/Controller/FlashCtrl.o
+ .group         0x00000000        0xc ./Libraries/Application/Src/Controller/FlashCtrl.o
+ .group         0x00000000        0xc ./Libraries/Application/Src/Controller/FlashCtrl.o
+ .group         0x00000000        0xc ./Libraries/Application/Src/Controller/FlashCtrl.o
+ .group         0x00000000        0xc ./Libraries/Application/Src/Controller/FlashCtrl.o
+ .group         0x00000000        0xc ./Libraries/Application/Src/Controller/FlashCtrl.o
+ .group         0x00000000        0xc ./Libraries/Application/Src/Controller/FlashCtrl.o
+ .group         0x00000000        0xc ./Libraries/Application/Src/Controller/FlashCtrl.o
+ .group         0x00000000        0xc ./Libraries/Application/Src/Controller/FlashCtrl.o
+ .group         0x00000000        0xc ./Libraries/Application/Src/Controller/FlashCtrl.o
+ .text          0x00000000        0x0 ./Libraries/Application/Src/Controller/FlashCtrl.o
+ .data          0x00000000        0x0 ./Libraries/Application/Src/Controller/FlashCtrl.o
+ .bss           0x00000000        0x0 ./Libraries/Application/Src/Controller/FlashCtrl.o
+ .rodata.IconBattery
+                0x00000000        0x8 ./Libraries/Application/Src/Controller/FlashCtrl.o
+ .rodata.IconCharge
+                0x00000000        0x6 ./Libraries/Application/Src/Controller/FlashCtrl.o
+ .rodata.IconAlarm
+                0x00000000        0x6 ./Libraries/Application/Src/Controller/FlashCtrl.o
+ .rodata.IconSound
+                0x00000000        0x8 ./Libraries/Application/Src/Controller/FlashCtrl.o
+ .rodata.IconCount
+                0x00000000        0x8 ./Libraries/Application/Src/Controller/FlashCtrl.o
+ .rodata.fonta  0x00000000      0x234 ./Libraries/Application/Src/Controller/FlashCtrl.o
+ .rodata.Datetype
+                0x00000000       0x2a ./Libraries/Application/Src/Controller/FlashCtrl.o
+ .debug_macro   0x00000000      0xaa8 ./Libraries/Application/Src/Controller/FlashCtrl.o
+ .debug_macro   0x00000000      0x21b ./Libraries/Application/Src/Controller/FlashCtrl.o
+ .debug_macro   0x00000000       0x2e ./Libraries/Application/Src/Controller/FlashCtrl.o
+ .debug_macro   0x00000000       0x22 ./Libraries/Application/Src/Controller/FlashCtrl.o
+ .debug_macro   0x00000000       0x22 ./Libraries/Application/Src/Controller/FlashCtrl.o
+ .debug_macro   0x00000000       0x8e ./Libraries/Application/Src/Controller/FlashCtrl.o
+ .debug_macro   0x00000000       0x51 ./Libraries/Application/Src/Controller/FlashCtrl.o
+ .debug_macro   0x00000000      0x103 ./Libraries/Application/Src/Controller/FlashCtrl.o
+ .debug_macro   0x00000000       0x6a ./Libraries/Application/Src/Controller/FlashCtrl.o
+ .debug_macro   0x00000000      0x1df ./Libraries/Application/Src/Controller/FlashCtrl.o
+ .debug_macro   0x00000000       0x1c ./Libraries/Application/Src/Controller/FlashCtrl.o
+ .debug_macro   0x00000000       0x22 ./Libraries/Application/Src/Controller/FlashCtrl.o
+ .debug_macro   0x00000000       0xbd ./Libraries/Application/Src/Controller/FlashCtrl.o
+ .debug_macro   0x00000000      0xd23 ./Libraries/Application/Src/Controller/FlashCtrl.o
+ .debug_macro   0x00000000     0xe09e ./Libraries/Application/Src/Controller/FlashCtrl.o
+ .debug_macro   0x00000000       0x6d ./Libraries/Application/Src/Controller/FlashCtrl.o
+ .debug_macro   0x00000000     0x34a2 ./Libraries/Application/Src/Controller/FlashCtrl.o
+ .debug_macro   0x00000000      0x189 ./Libraries/Application/Src/Controller/FlashCtrl.o
+ .debug_macro   0x00000000       0x5c ./Libraries/Application/Src/Controller/FlashCtrl.o
+ .debug_macro   0x00000000      0x5bc ./Libraries/Application/Src/Controller/FlashCtrl.o
+ .debug_macro   0x00000000      0x289 ./Libraries/Application/Src/Controller/FlashCtrl.o
+ .debug_macro   0x00000000      0x1cb ./Libraries/Application/Src/Controller/FlashCtrl.o
+ .debug_macro   0x00000000      0x114 ./Libraries/Application/Src/Controller/FlashCtrl.o
+ .debug_macro   0x00000000      0x1b2 ./Libraries/Application/Src/Controller/FlashCtrl.o
+ .debug_macro   0x00000000       0x27 ./Libraries/Application/Src/Controller/FlashCtrl.o
+ .debug_macro   0x00000000      0x136 ./Libraries/Application/Src/Controller/FlashCtrl.o
+ .debug_macro   0x00000000      0x1bc ./Libraries/Application/Src/Controller/FlashCtrl.o
+ .debug_macro   0x00000000       0x34 ./Libraries/Application/Src/Controller/FlashCtrl.o
+ .debug_macro   0x00000000       0x3c ./Libraries/Application/Src/Controller/FlashCtrl.o
+ .debug_macro   0x00000000       0x57 ./Libraries/Application/Src/Controller/FlashCtrl.o
+ .debug_macro   0x00000000       0x87 ./Libraries/Application/Src/Controller/FlashCtrl.o
+ .debug_macro   0x00000000      0x240 ./Libraries/Application/Src/Controller/FlashCtrl.o
+ .debug_macro   0x00000000      0x287 ./Libraries/Application/Src/Controller/FlashCtrl.o
+ .debug_macro   0x00000000      0x140 ./Libraries/Application/Src/Controller/FlashCtrl.o
+ .debug_macro   0x00000000      0x8ed ./Libraries/Application/Src/Controller/FlashCtrl.o
+ .debug_macro   0x00000000       0x83 ./Libraries/Application/Src/Controller/FlashCtrl.o
+ .debug_macro   0x00000000       0x22 ./Libraries/Application/Src/Controller/FlashCtrl.o
+ .debug_macro   0x00000000       0xa6 ./Libraries/Application/Src/Controller/FlashCtrl.o
+ .debug_macro   0x00000000       0x52 ./Libraries/Application/Src/Controller/FlashCtrl.o
+ .debug_macro   0x00000000       0x3a ./Libraries/Application/Src/Controller/FlashCtrl.o
+ .debug_macro   0x00000000       0x22 ./Libraries/Application/Src/Controller/FlashCtrl.o
+ .group         0x00000000        0xc ./Libraries/Application/Src/Controller/IdlingCtrl.o
  .group         0x00000000        0xc ./Libraries/Application/Src/Controller/IdlingCtrl.o
  .group         0x00000000        0xc ./Libraries/Application/Src/Controller/IdlingCtrl.o
  .group         0x00000000        0xc ./Libraries/Application/Src/Controller/IdlingCtrl.o
@@ -2570,6 +2667,18 @@ Discarded input sections
  .data          0x00000000        0x0 ./Libraries/Application/Src/Controller/IdlingCtrl.o
  .bss           0x00000000        0x0 ./Libraries/Application/Src/Controller/IdlingCtrl.o
  .rodata.fonta  0x00000000      0x234 ./Libraries/Application/Src/Controller/IdlingCtrl.o
+ .rodata.IconBattery
+                0x00000000        0x8 ./Libraries/Application/Src/Controller/IdlingCtrl.o
+ .rodata.IconCharge
+                0x00000000        0x6 ./Libraries/Application/Src/Controller/IdlingCtrl.o
+ .rodata.IconAlarm
+                0x00000000        0x6 ./Libraries/Application/Src/Controller/IdlingCtrl.o
+ .rodata.IconSound
+                0x00000000        0x8 ./Libraries/Application/Src/Controller/IdlingCtrl.o
+ .rodata.IconCount
+                0x00000000        0x8 ./Libraries/Application/Src/Controller/IdlingCtrl.o
+ .rodata.Datetype
+                0x00000000       0x2a ./Libraries/Application/Src/Controller/IdlingCtrl.o
  .rodata.Zero   0x00000000       0x48 ./Libraries/Application/Src/Controller/IdlingCtrl.o
  .rodata.One    0x00000000       0x48 ./Libraries/Application/Src/Controller/IdlingCtrl.o
  .rodata.Two    0x00000000       0x48 ./Libraries/Application/Src/Controller/IdlingCtrl.o
@@ -2633,6 +2742,7 @@ Discarded input sections
  .debug_macro   0x00000000       0x22 ./Libraries/Application/Src/Controller/IdlingCtrl.o
  .debug_macro   0x00000000       0xa6 ./Libraries/Application/Src/Controller/IdlingCtrl.o
  .debug_macro   0x00000000       0x52 ./Libraries/Application/Src/Controller/IdlingCtrl.o
+ .debug_macro   0x00000000       0x3a ./Libraries/Application/Src/Controller/IdlingCtrl.o
  .debug_macro   0x00000000       0x2e ./Libraries/Application/Src/Controller/IdlingCtrl.o
  .group         0x00000000        0xc ./Libraries/Application/Src/Controller/MenuCtrl.o
  .group         0x00000000        0xc ./Libraries/Application/Src/Controller/MenuCtrl.o
@@ -2879,12 +2989,12 @@ Discarded input sections
  .debug_macro   0x00000000       0x22 ./Libraries/Application/Src/Controller/StateCtrl.o
  .debug_macro   0x00000000       0xa6 ./Libraries/Application/Src/Controller/StateCtrl.o
  .debug_macro   0x00000000       0x52 ./Libraries/Application/Src/Controller/StateCtrl.o
- .debug_macro   0x00000000       0x2e ./Libraries/Application/Src/Controller/StateCtrl.o
+ .debug_macro   0x00000000       0x3a ./Libraries/Application/Src/Controller/StateCtrl.o
  .debug_macro   0x00000000       0xa0 ./Libraries/Application/Src/Controller/StateCtrl.o
- .debug_macro   0x00000000       0x10 ./Libraries/Application/Src/Controller/StateCtrl.o
+ .debug_macro   0x00000000       0x34 ./Libraries/Application/Src/Controller/StateCtrl.o
  .debug_macro   0x00000000       0x2e ./Libraries/Application/Src/Controller/StateCtrl.o
- .debug_macro   0x00000000       0x28 ./Libraries/Application/Src/Controller/StateCtrl.o
- .debug_macro   0x00000000       0xe2 ./Libraries/Application/Src/Controller/StateCtrl.o
+ .debug_macro   0x00000000       0x22 ./Libraries/Application/Src/Controller/StateCtrl.o
+ .debug_macro   0x00000000       0xca ./Libraries/Application/Src/Controller/StateCtrl.o
  .group         0x00000000        0xc ./Libraries/Application/Src/GeneralUtilities.o
  .text          0x00000000        0x0 ./Libraries/Application/Src/GeneralUtilities.o
  .data          0x00000000        0x0 ./Libraries/Application/Src/GeneralUtilities.o
@@ -3190,6 +3300,90 @@ Discarded input sections
  .debug_frame   0x00000000       0x38 ./Libraries/Application/Src/View/CounterView.o
  .ARM.attributes
                 0x00000000       0x2d ./Libraries/Application/Src/View/CounterView.o
+ .group         0x00000000        0xc ./Libraries/Application/Src/View/FlashView.o
+ .group         0x00000000        0xc ./Libraries/Application/Src/View/FlashView.o
+ .group         0x00000000        0xc ./Libraries/Application/Src/View/FlashView.o
+ .group         0x00000000        0xc ./Libraries/Application/Src/View/FlashView.o
+ .group         0x00000000        0xc ./Libraries/Application/Src/View/FlashView.o
+ .group         0x00000000        0xc ./Libraries/Application/Src/View/FlashView.o
+ .group         0x00000000        0xc ./Libraries/Application/Src/View/FlashView.o
+ .group         0x00000000        0xc ./Libraries/Application/Src/View/FlashView.o
+ .group         0x00000000        0xc ./Libraries/Application/Src/View/FlashView.o
+ .group         0x00000000        0xc ./Libraries/Application/Src/View/FlashView.o
+ .group         0x00000000        0xc ./Libraries/Application/Src/View/FlashView.o
+ .group         0x00000000        0xc ./Libraries/Application/Src/View/FlashView.o
+ .group         0x00000000        0xc ./Libraries/Application/Src/View/FlashView.o
+ .group         0x00000000        0xc ./Libraries/Application/Src/View/FlashView.o
+ .group         0x00000000        0xc ./Libraries/Application/Src/View/FlashView.o
+ .group         0x00000000        0xc ./Libraries/Application/Src/View/FlashView.o
+ .group         0x00000000        0xc ./Libraries/Application/Src/View/FlashView.o
+ .group         0x00000000        0xc ./Libraries/Application/Src/View/FlashView.o
+ .group         0x00000000        0xc ./Libraries/Application/Src/View/FlashView.o
+ .group         0x00000000        0xc ./Libraries/Application/Src/View/FlashView.o
+ .group         0x00000000        0xc ./Libraries/Application/Src/View/FlashView.o
+ .group         0x00000000        0xc ./Libraries/Application/Src/View/FlashView.o
+ .group         0x00000000        0xc ./Libraries/Application/Src/View/FlashView.o
+ .group         0x00000000        0xc ./Libraries/Application/Src/View/FlashView.o
+ .group         0x00000000        0xc ./Libraries/Application/Src/View/FlashView.o
+ .group         0x00000000        0xc ./Libraries/Application/Src/View/FlashView.o
+ .group         0x00000000        0xc ./Libraries/Application/Src/View/FlashView.o
+ .group         0x00000000        0xc ./Libraries/Application/Src/View/FlashView.o
+ .group         0x00000000        0xc ./Libraries/Application/Src/View/FlashView.o
+ .group         0x00000000        0xc ./Libraries/Application/Src/View/FlashView.o
+ .group         0x00000000        0xc ./Libraries/Application/Src/View/FlashView.o
+ .group         0x00000000        0xc ./Libraries/Application/Src/View/FlashView.o
+ .group         0x00000000        0xc ./Libraries/Application/Src/View/FlashView.o
+ .group         0x00000000        0xc ./Libraries/Application/Src/View/FlashView.o
+ .group         0x00000000        0xc ./Libraries/Application/Src/View/FlashView.o
+ .group         0x00000000        0xc ./Libraries/Application/Src/View/FlashView.o
+ .group         0x00000000        0xc ./Libraries/Application/Src/View/FlashView.o
+ .group         0x00000000        0xc ./Libraries/Application/Src/View/FlashView.o
+ .group         0x00000000        0xc ./Libraries/Application/Src/View/FlashView.o
+ .group         0x00000000        0xc ./Libraries/Application/Src/View/FlashView.o
+ .text          0x00000000        0x0 ./Libraries/Application/Src/View/FlashView.o
+ .data          0x00000000        0x0 ./Libraries/Application/Src/View/FlashView.o
+ .bss           0x00000000        0x0 ./Libraries/Application/Src/View/FlashView.o
+ .rodata.fonta  0x00000000      0x234 ./Libraries/Application/Src/View/FlashView.o
+ .debug_macro   0x00000000      0xaa8 ./Libraries/Application/Src/View/FlashView.o
+ .debug_macro   0x00000000      0x21b ./Libraries/Application/Src/View/FlashView.o
+ .debug_macro   0x00000000       0x2e ./Libraries/Application/Src/View/FlashView.o
+ .debug_macro   0x00000000       0x22 ./Libraries/Application/Src/View/FlashView.o
+ .debug_macro   0x00000000       0x22 ./Libraries/Application/Src/View/FlashView.o
+ .debug_macro   0x00000000       0x8e ./Libraries/Application/Src/View/FlashView.o
+ .debug_macro   0x00000000       0x51 ./Libraries/Application/Src/View/FlashView.o
+ .debug_macro   0x00000000      0x103 ./Libraries/Application/Src/View/FlashView.o
+ .debug_macro   0x00000000       0x6a ./Libraries/Application/Src/View/FlashView.o
+ .debug_macro   0x00000000      0x1df ./Libraries/Application/Src/View/FlashView.o
+ .debug_macro   0x00000000       0x1c ./Libraries/Application/Src/View/FlashView.o
+ .debug_macro   0x00000000       0x22 ./Libraries/Application/Src/View/FlashView.o
+ .debug_macro   0x00000000       0xbd ./Libraries/Application/Src/View/FlashView.o
+ .debug_macro   0x00000000      0xd23 ./Libraries/Application/Src/View/FlashView.o
+ .debug_macro   0x00000000     0xe09e ./Libraries/Application/Src/View/FlashView.o
+ .debug_macro   0x00000000       0x6d ./Libraries/Application/Src/View/FlashView.o
+ .debug_macro   0x00000000     0x34a2 ./Libraries/Application/Src/View/FlashView.o
+ .debug_macro   0x00000000      0x189 ./Libraries/Application/Src/View/FlashView.o
+ .debug_macro   0x00000000       0x5c ./Libraries/Application/Src/View/FlashView.o
+ .debug_macro   0x00000000      0x5bc ./Libraries/Application/Src/View/FlashView.o
+ .debug_macro   0x00000000      0x289 ./Libraries/Application/Src/View/FlashView.o
+ .debug_macro   0x00000000      0x1cb ./Libraries/Application/Src/View/FlashView.o
+ .debug_macro   0x00000000      0x114 ./Libraries/Application/Src/View/FlashView.o
+ .debug_macro   0x00000000      0x1b2 ./Libraries/Application/Src/View/FlashView.o
+ .debug_macro   0x00000000       0x27 ./Libraries/Application/Src/View/FlashView.o
+ .debug_macro   0x00000000      0x136 ./Libraries/Application/Src/View/FlashView.o
+ .debug_macro   0x00000000      0x1bc ./Libraries/Application/Src/View/FlashView.o
+ .debug_macro   0x00000000       0x34 ./Libraries/Application/Src/View/FlashView.o
+ .debug_macro   0x00000000       0x3c ./Libraries/Application/Src/View/FlashView.o
+ .debug_macro   0x00000000       0x57 ./Libraries/Application/Src/View/FlashView.o
+ .debug_macro   0x00000000       0x87 ./Libraries/Application/Src/View/FlashView.o
+ .debug_macro   0x00000000      0x240 ./Libraries/Application/Src/View/FlashView.o
+ .debug_macro   0x00000000      0x287 ./Libraries/Application/Src/View/FlashView.o
+ .debug_macro   0x00000000      0x140 ./Libraries/Application/Src/View/FlashView.o
+ .debug_macro   0x00000000      0x8ed ./Libraries/Application/Src/View/FlashView.o
+ .debug_macro   0x00000000       0x83 ./Libraries/Application/Src/View/FlashView.o
+ .debug_macro   0x00000000       0x22 ./Libraries/Application/Src/View/FlashView.o
+ .debug_macro   0x00000000       0xa6 ./Libraries/Application/Src/View/FlashView.o
+ .debug_macro   0x00000000       0x52 ./Libraries/Application/Src/View/FlashView.o
+ .debug_macro   0x00000000       0x22 ./Libraries/Application/Src/View/FlashView.o
  .group         0x00000000        0xc ./Libraries/Application/Src/View/GeneralDisplay.o
  .group         0x00000000        0xc ./Libraries/Application/Src/View/GeneralDisplay.o
  .group         0x00000000        0xc ./Libraries/Application/Src/View/GeneralDisplay.o
@@ -3273,7 +3467,7 @@ Discarded input sections
  .debug_macro   0x00000000       0xa6 ./Libraries/Application/Src/View/GeneralDisplay.o
  .debug_macro   0x00000000       0x22 ./Libraries/Application/Src/View/GeneralDisplay.o
  .debug_macro   0x00000000       0x52 ./Libraries/Application/Src/View/GeneralDisplay.o
- .debug_macro   0x00000000       0x2e ./Libraries/Application/Src/View/GeneralDisplay.o
+ .debug_macro   0x00000000       0x3a ./Libraries/Application/Src/View/GeneralDisplay.o
  .group         0x00000000        0xc ./Libraries/Application/Src/View/IdlingView.o
  .group         0x00000000        0xc ./Libraries/Application/Src/View/IdlingView.o
  .group         0x00000000        0xc ./Libraries/Application/Src/View/IdlingView.o
@@ -4112,6 +4306,7 @@ LOAD ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.o
 LOAD ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.o
 LOAD ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.o
 LOAD ./Libraries/Application/Src/Controller/AlarmCtrl.o
+LOAD ./Libraries/Application/Src/Controller/FlashCtrl.o
 LOAD ./Libraries/Application/Src/Controller/IdlingCtrl.o
 LOAD ./Libraries/Application/Src/Controller/MenuCtrl.o
 LOAD ./Libraries/Application/Src/Controller/StateCtrl.o
@@ -4119,6 +4314,7 @@ LOAD ./Libraries/Application/Src/GeneralUtilities.o
 LOAD ./Libraries/Application/Src/ScreenUtilities.o
 LOAD ./Libraries/Application/Src/View/AlarmView.o
 LOAD ./Libraries/Application/Src/View/CounterView.o
+LOAD ./Libraries/Application/Src/View/FlashView.o
 LOAD ./Libraries/Application/Src/View/GeneralDisplay.o
 LOAD ./Libraries/Application/Src/View/IdlingView.o
 LOAD ./Libraries/Application/Src/View/MenuView.o
@@ -4158,7 +4354,7 @@ LOAD C:/Program Files/STM32CubeIDE_1.17.0/STM32CubeIDE/plugins/com.st.stm32cube.
                 0x08000000                g_pfnVectors
                 0x0800010c                        . = ALIGN (0x4)
 
-.text           0x0800010c     0x4afc
+.text           0x0800010c     0x4d84
                 0x0800010c                        . = ALIGN (0x4)
  *(.text)
  .text          0x0800010c       0x40 C:/Program Files/STM32CubeIDE_1.17.0/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.win32_1.1.0.202410251130/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7-m/nofp/crtbegin.o
@@ -4430,256 +4626,277 @@ LOAD C:/Program Files/STM32CubeIDE_1.17.0/STM32CubeIDE/plugins/com.st.stm32cube.
  .text.AlarmState
                 0x08002cfc      0x628 ./Libraries/Application/Src/Controller/AlarmCtrl.o
                 0x08002cfc                AlarmState
+ .text.FlashState
+                0x08003324       0xec ./Libraries/Application/Src/Controller/FlashCtrl.o
+                0x08003324                FlashState
+ .text.FlastStateAction
+                0x08003410       0x7c ./Libraries/Application/Src/Controller/FlashCtrl.o
+                0x08003410                FlastStateAction
  .text.IdlingStateAction
-                0x08003324       0x2a ./Libraries/Application/Src/Controller/IdlingCtrl.o
-                0x08003324                IdlingStateAction
+                0x0800348c       0x26 ./Libraries/Application/Src/Controller/IdlingCtrl.o
+                0x0800348c                IdlingStateAction
  .text.MenuStateAction
-                0x0800334e       0x34 ./Libraries/Application/Src/Controller/MenuCtrl.o
-                0x0800334e                MenuStateAction
- *fill*         0x08003382        0x2 
+                0x080034b2       0x34 ./Libraries/Application/Src/Controller/MenuCtrl.o
+                0x080034b2                MenuStateAction
+ *fill*         0x080034e6        0x2 
  .text.MainStateMachine
-                0x08003384      0x114 ./Libraries/Application/Src/Controller/StateCtrl.o
-                0x08003384                MainStateMachine
+                0x080034e8      0x138 ./Libraries/Application/Src/Controller/StateCtrl.o
+                0x080034e8                MainStateMachine
  .text.MainStateAction
-                0x08003498       0x84 ./Libraries/Application/Src/Controller/StateCtrl.o
-                0x08003498                MainStateAction
- .text.GotoXP   0x0800351c       0x2c ./Libraries/Application/Src/ScreenUtilities.o
-                0x0800351c                GotoXP
+                0x08003620       0x90 ./Libraries/Application/Src/Controller/StateCtrl.o
+                0x08003620                MainStateAction
+ .text.GotoXP   0x080036b0       0x2c ./Libraries/Application/Src/ScreenUtilities.o
+                0x080036b0                GotoXP
  .text.NextPosition
-                0x08003548       0x58 ./Libraries/Application/Src/ScreenUtilities.o
-                0x08003548                NextPosition
+                0x080036dc       0x58 ./Libraries/Application/Src/ScreenUtilities.o
+                0x080036dc                NextPosition
  .text.WriteCol
-                0x080035a0       0x40 ./Libraries/Application/Src/ScreenUtilities.o
-                0x080035a0                WriteCol
+                0x08003734       0x40 ./Libraries/Application/Src/ScreenUtilities.o
+                0x08003734                WriteCol
  .text.WriteChar
-                0x080035e0       0x48 ./Libraries/Application/Src/ScreenUtilities.o
-                0x080035e0                WriteChar
+                0x08003774       0x48 ./Libraries/Application/Src/ScreenUtilities.o
+                0x08003774                WriteChar
  .text.WriteString
-                0x08003628       0x38 ./Libraries/Application/Src/ScreenUtilities.o
-                0x08003628                WriteString
+                0x080037bc       0x38 ./Libraries/Application/Src/ScreenUtilities.o
+                0x080037bc                WriteString
  .text.DeleteString
-                0x08003660       0x42 ./Libraries/Application/Src/ScreenUtilities.o
-                0x08003660                DeleteString
+                0x080037f4       0x42 ./Libraries/Application/Src/ScreenUtilities.o
+                0x080037f4                DeleteString
  .text.SolidFill
-                0x080036a2       0x52 ./Libraries/Application/Src/ScreenUtilities.o
-                0x080036a2                SolidFill
+                0x08003836       0x52 ./Libraries/Application/Src/ScreenUtilities.o
+                0x08003836                SolidFill
  .text.DrawIcon
-                0x080036f4       0x38 ./Libraries/Application/Src/ScreenUtilities.o
-                0x080036f4                DrawIcon
+                0x08003888       0x38 ./Libraries/Application/Src/ScreenUtilities.o
+                0x08003888                DrawIcon
  .text.DrawImage
-                0x0800372c       0x78 ./Libraries/Application/Src/ScreenUtilities.o
-                0x0800372c                DrawImage
+                0x080038c0       0x78 ./Libraries/Application/Src/ScreenUtilities.o
+                0x080038c0                DrawImage
  .text.InverseImage
-                0x080037a4       0x84 ./Libraries/Application/Src/ScreenUtilities.o
-                0x080037a4                InverseImage
+                0x08003938       0x84 ./Libraries/Application/Src/ScreenUtilities.o
+                0x08003938                InverseImage
  .text.UpdateScreen
-                0x08003828       0x20 ./Libraries/Application/Src/ScreenUtilities.o
-                0x08003828                UpdateScreen
+                0x080039bc       0x20 ./Libraries/Application/Src/ScreenUtilities.o
+                0x080039bc                UpdateScreen
  .text.DispAlarmLine
-                0x08003848      0x358 ./Libraries/Application/Src/View/AlarmView.o
-                0x08003848                DispAlarmLine
+                0x080039dc      0x358 ./Libraries/Application/Src/View/AlarmView.o
+                0x080039dc                DispAlarmLine
+ .text.DispFlashLine
+                0x08003d34       0xcc ./Libraries/Application/Src/View/FlashView.o
+                0x08003d34                DispFlashLine
+ .text.FlashModeLight
+                0x08003e00        0xe ./Libraries/Application/Src/View/FlashView.o
+                0x08003e00                FlashModeLight
+ .text.FlashModeBlink
+                0x08003e0e        0xc ./Libraries/Application/Src/View/FlashView.o
+                0x08003e0e                FlashModeBlink
+ .text.FlashModeSOS
+                0x08003e1a        0xc ./Libraries/Application/Src/View/FlashView.o
+                0x08003e1a                FlashModeSOS
+ *fill*         0x08003e26        0x2 
  .text.DispTopRightIcon
-                0x08003ba0      0x114 ./Libraries/Application/Src/View/GeneralDisplay.o
-                0x08003ba0                DispTopRightIcon
+                0x08003e28      0x114 ./Libraries/Application/Src/View/GeneralDisplay.o
+                0x08003e28                DispTopRightIcon
  .text.DispBotTime
-                0x08003cb4      0x10c ./Libraries/Application/Src/View/GeneralDisplay.o
-                0x08003cb4                DispBotTime
+                0x08003f3c      0x10c ./Libraries/Application/Src/View/GeneralDisplay.o
+                0x08003f3c                DispBotTime
  .text.DispMainTime
-                0x08003dc0      0x628 ./Libraries/Application/Src/View/IdlingView.o
-                0x08003dc0                DispMainTime
+                0x08004048      0x628 ./Libraries/Application/Src/View/IdlingView.o
+                0x08004048                DispMainTime
  .text.DispMenuName
-                0x080043e8      0x104 ./Libraries/Application/Src/View/MenuView.o
-                0x080043e8                DispMenuName
+                0x08004670      0x104 ./Libraries/Application/Src/View/MenuView.o
+                0x08004670                DispMenuName
  .text.DispMenuIcon
-                0x080044ec      0x114 ./Libraries/Application/Src/View/MenuView.o
-                0x080044ec                DispMenuIcon
+                0x08004774      0x114 ./Libraries/Application/Src/View/MenuView.o
+                0x08004774                DispMenuIcon
  .text.Beep_Init
-                0x08004600       0x28 ./Libraries/Firmware/Src/Beep_pwm.o
-                0x08004600                Beep_Init
+                0x08004888       0x28 ./Libraries/Firmware/Src/Beep_pwm.o
+                0x08004888                Beep_Init
  .text.Button_Init
-                0x08004628       0x5c ./Libraries/Firmware/Src/Button_gpio.o
-                0x08004628                Button_Init
+                0x080048b0       0x5c ./Libraries/Firmware/Src/Button_gpio.o
+                0x080048b0                Button_Init
  .text.Button_ExePush
-                0x08004684       0x88 ./Libraries/Firmware/Src/Button_gpio.o
-                0x08004684                Button_ExePush
+                0x0800490c       0x88 ./Libraries/Firmware/Src/Button_gpio.o
+                0x0800490c                Button_ExePush
  .text.Button_ExeUp
-                0x0800470c       0x88 ./Libraries/Firmware/Src/Button_gpio.o
-                0x0800470c                Button_ExeUp
+                0x08004994       0x88 ./Libraries/Firmware/Src/Button_gpio.o
+                0x08004994                Button_ExeUp
  .text.Button_ExeDown
-                0x08004794       0x88 ./Libraries/Firmware/Src/Button_gpio.o
-                0x08004794                Button_ExeDown
+                0x08004a1c       0x88 ./Libraries/Firmware/Src/Button_gpio.o
+                0x08004a1c                Button_ExeDown
  .text.Led_Init
-                0x0800481c       0x48 ./Libraries/Firmware/Src/Led_gpio.o
-                0x0800481c                Led_Init
+                0x08004aa4       0x48 ./Libraries/Firmware/Src/Led_gpio.o
+                0x08004aa4                Led_Init
  .text.Oled_Init
-                0x08004864      0x1c0 ./Libraries/Firmware/Src/Oled_sh1106_i2c.o
-                0x08004864                Oled_Init
+                0x08004aec      0x1c0 ./Libraries/Firmware/Src/Oled_sh1106_i2c.o
+                0x08004aec                Oled_Init
  .text.Oled_Update
-                0x08004a24       0xf8 ./Libraries/Firmware/Src/Oled_sh1106_i2c.o
-                0x08004a24                Oled_Update
+                0x08004cac       0xf8 ./Libraries/Firmware/Src/Oled_sh1106_i2c.o
+                0x08004cac                Oled_Update
  .text.Oled_WriteCmd
-                0x08004b1c       0x5c ./Libraries/Firmware/Src/Oled_sh1106_i2c.o
-                0x08004b1c                Oled_WriteCmd
+                0x08004da4       0x5c ./Libraries/Firmware/Src/Oled_sh1106_i2c.o
+                0x08004da4                Oled_WriteCmd
  .text.Rtc_Init
-                0x08004b78       0x20 ./Libraries/Firmware/Src/Rtc_ds1307_i2c.o
-                0x08004b78                Rtc_Init
- .text.memset   0x08004b98       0x10 C:/Program Files/STM32CubeIDE_1.17.0/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.win32_1.1.0.202410251130/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc_nano.a(libc_a-memset.o)
-                0x08004b98                memset
+                0x08004e00       0x20 ./Libraries/Firmware/Src/Rtc_ds1307_i2c.o
+                0x08004e00                Rtc_Init
+ .text.memset   0x08004e20       0x10 C:/Program Files/STM32CubeIDE_1.17.0/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.win32_1.1.0.202410251130/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc_nano.a(libc_a-memset.o)
+                0x08004e20                memset
  .text.__libc_init_array
-                0x08004ba8       0x48 C:/Program Files/STM32CubeIDE_1.17.0/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.win32_1.1.0.202410251130/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc_nano.a(libc_a-init.o)
-                0x08004ba8                __libc_init_array
+                0x08004e30       0x48 C:/Program Files/STM32CubeIDE_1.17.0/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.win32_1.1.0.202410251130/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc_nano.a(libc_a-init.o)
+                0x08004e30                __libc_init_array
  *(.glue_7)
- .glue_7        0x08004bf0        0x0 linker stubs
+ .glue_7        0x08004e78        0x0 linker stubs
  *(.glue_7t)
- .glue_7t       0x08004bf0        0x0 linker stubs
+ .glue_7t       0x08004e78        0x0 linker stubs
  *(.eh_frame)
- .eh_frame      0x08004bf0        0x0 C:/Program Files/STM32CubeIDE_1.17.0/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.win32_1.1.0.202410251130/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7-m/nofp/crtbegin.o
+ .eh_frame      0x08004e78        0x0 C:/Program Files/STM32CubeIDE_1.17.0/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.win32_1.1.0.202410251130/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7-m/nofp/crtbegin.o
  *(.init)
- .init          0x08004bf0        0x4 C:/Program Files/STM32CubeIDE_1.17.0/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.win32_1.1.0.202410251130/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7-m/nofp/crti.o
-                0x08004bf0                _init
- .init          0x08004bf4        0x8 C:/Program Files/STM32CubeIDE_1.17.0/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.win32_1.1.0.202410251130/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7-m/nofp/crtn.o
+ .init          0x08004e78        0x4 C:/Program Files/STM32CubeIDE_1.17.0/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.win32_1.1.0.202410251130/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7-m/nofp/crti.o
+                0x08004e78                _init
+ .init          0x08004e7c        0x8 C:/Program Files/STM32CubeIDE_1.17.0/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.win32_1.1.0.202410251130/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7-m/nofp/crtn.o
  *(.fini)
- .fini          0x08004bfc        0x4 C:/Program Files/STM32CubeIDE_1.17.0/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.win32_1.1.0.202410251130/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7-m/nofp/crti.o
-                0x08004bfc                _fini
- .fini          0x08004c00        0x8 C:/Program Files/STM32CubeIDE_1.17.0/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.win32_1.1.0.202410251130/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7-m/nofp/crtn.o
-                0x08004c08                        . = ALIGN (0x4)
-                0x08004c08                        _etext = .
+ .fini          0x08004e84        0x4 C:/Program Files/STM32CubeIDE_1.17.0/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.win32_1.1.0.202410251130/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7-m/nofp/crti.o
+                0x08004e84                _fini
+ .fini          0x08004e88        0x8 C:/Program Files/STM32CubeIDE_1.17.0/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.win32_1.1.0.202410251130/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7-m/nofp/crtn.o
+                0x08004e90                        . = ALIGN (0x4)
+                0x08004e90                        _etext = .
 
-.vfp11_veneer   0x08004c08        0x0
- .vfp11_veneer  0x08004c08        0x0 linker stubs
+.vfp11_veneer   0x08004e90        0x0
+ .vfp11_veneer  0x08004e90        0x0 linker stubs
 
-.v4_bx          0x08004c08        0x0
- .v4_bx         0x08004c08        0x0 linker stubs
+.v4_bx          0x08004e90        0x0
+ .v4_bx         0x08004e90        0x0 linker stubs
 
-.iplt           0x08004c08        0x0
- .iplt          0x08004c08        0x0 C:/Program Files/STM32CubeIDE_1.17.0/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.win32_1.1.0.202410251130/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7-m/nofp/crtbegin.o
+.iplt           0x08004e90        0x0
+ .iplt          0x08004e90        0x0 C:/Program Files/STM32CubeIDE_1.17.0/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.win32_1.1.0.202410251130/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7-m/nofp/crtbegin.o
 
-.rodata         0x08004c08      0xa28
-                0x08004c08                        . = ALIGN (0x4)
+.rodata         0x08004e90      0xa5c
+                0x08004e90                        . = ALIGN (0x4)
  *(.rodata)
- .rodata        0x08004c08       0x15 ./Libraries/Application/Src/View/AlarmView.o
- *fill*         0x08004c1d        0x3 
- .rodata        0x08004c20        0x4 ./Libraries/Application/Src/View/GeneralDisplay.o
- .rodata        0x08004c24       0x4e ./Libraries/Application/Src/View/MenuView.o
+ .rodata        0x08004e90       0x15 ./Libraries/Application/Src/View/AlarmView.o
+ *fill*         0x08004ea5        0x3 
+ .rodata        0x08004ea8       0x31 ./Libraries/Application/Src/View/FlashView.o
+ *fill*         0x08004ed9        0x3 
+ .rodata        0x08004edc        0x4 ./Libraries/Application/Src/View/GeneralDisplay.o
+ .rodata        0x08004ee0       0x4e ./Libraries/Application/Src/View/MenuView.o
  *(.rodata*)
- *fill*         0x08004c72        0x2 
+ *fill*         0x08004f2e        0x2 
  .rodata.AHBPrescTable
-                0x08004c74       0x10 ./Core/Src/system_stm32f1xx.o
-                0x08004c74                AHBPrescTable
+                0x08004f30       0x10 ./Core/Src/system_stm32f1xx.o
+                0x08004f30                AHBPrescTable
  .rodata.APBPrescTable
-                0x08004c84        0x8 ./Core/Src/system_stm32f1xx.o
-                0x08004c84                APBPrescTable
+                0x08004f40        0x8 ./Core/Src/system_stm32f1xx.o
+                0x08004f40                APBPrescTable
  .rodata.aPLLMULFactorTable.1
-                0x08004c8c       0x10 ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.o
+                0x08004f48       0x10 ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.o
  .rodata.aPredivFactorTable.0
-                0x08004c9c        0x2 ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.o
- *fill*         0x08004c9e        0x2 
- .rodata.fonta  0x08004ca0      0x234 ./Libraries/Application/Src/ScreenUtilities.o
+                0x08004f58        0x2 ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.o
+ *fill*         0x08004f5a        0x2 
+ .rodata.fonta  0x08004f5c      0x234 ./Libraries/Application/Src/ScreenUtilities.o
  .rodata.IconBattery
-                0x08004ed4        0x8 ./Libraries/Application/Src/View/GeneralDisplay.o
+                0x08005190        0x8 ./Libraries/Application/Src/View/GeneralDisplay.o
  .rodata.IconCharge
-                0x08004edc        0x6 ./Libraries/Application/Src/View/GeneralDisplay.o
- *fill*         0x08004ee2        0x2 
+                0x08005198        0x6 ./Libraries/Application/Src/View/GeneralDisplay.o
+ *fill*         0x0800519e        0x2 
  .rodata.IconAlarm
-                0x08004ee4        0x6 ./Libraries/Application/Src/View/GeneralDisplay.o
- *fill*         0x08004eea        0x2 
+                0x080051a0        0x6 ./Libraries/Application/Src/View/GeneralDisplay.o
+ *fill*         0x080051a6        0x2 
  .rodata.IconSound
-                0x08004eec        0x8 ./Libraries/Application/Src/View/GeneralDisplay.o
+                0x080051a8        0x8 ./Libraries/Application/Src/View/GeneralDisplay.o
  .rodata.IconCount
-                0x08004ef4        0x8 ./Libraries/Application/Src/View/GeneralDisplay.o
+                0x080051b0        0x8 ./Libraries/Application/Src/View/GeneralDisplay.o
  .rodata.Datetype
-                0x08004efc       0x2a ./Libraries/Application/Src/View/GeneralDisplay.o
- *fill*         0x08004f26        0x2 
- .rodata.Zero   0x08004f28       0x48 ./Libraries/Application/Src/View/IdlingView.o
- .rodata.One    0x08004f70       0x48 ./Libraries/Application/Src/View/IdlingView.o
- .rodata.Two    0x08004fb8       0x48 ./Libraries/Application/Src/View/IdlingView.o
- .rodata.Three  0x08005000       0x48 ./Libraries/Application/Src/View/IdlingView.o
- .rodata.Four   0x08005048       0x48 ./Libraries/Application/Src/View/IdlingView.o
- .rodata.Five   0x08005090       0x48 ./Libraries/Application/Src/View/IdlingView.o
- .rodata.Six    0x080050d8       0x48 ./Libraries/Application/Src/View/IdlingView.o
- .rodata.Seven  0x08005120       0x48 ./Libraries/Application/Src/View/IdlingView.o
- .rodata.Eight  0x08005168       0x48 ./Libraries/Application/Src/View/IdlingView.o
- .rodata.Nine   0x080051b0       0x48 ./Libraries/Application/Src/View/IdlingView.o
- .rodata.Zeros  0x080051f8       0x1b ./Libraries/Application/Src/View/IdlingView.o
- *fill*         0x08005213        0x1 
- .rodata.Ones   0x08005214       0x1b ./Libraries/Application/Src/View/IdlingView.o
- *fill*         0x0800522f        0x1 
- .rodata.Twos   0x08005230       0x1b ./Libraries/Application/Src/View/IdlingView.o
- *fill*         0x0800524b        0x1 
+                0x080051b8       0x2a ./Libraries/Application/Src/View/GeneralDisplay.o
+ *fill*         0x080051e2        0x2 
+ .rodata.Zero   0x080051e4       0x48 ./Libraries/Application/Src/View/IdlingView.o
+ .rodata.One    0x0800522c       0x48 ./Libraries/Application/Src/View/IdlingView.o
+ .rodata.Two    0x08005274       0x48 ./Libraries/Application/Src/View/IdlingView.o
+ .rodata.Three  0x080052bc       0x48 ./Libraries/Application/Src/View/IdlingView.o
+ .rodata.Four   0x08005304       0x48 ./Libraries/Application/Src/View/IdlingView.o
+ .rodata.Five   0x0800534c       0x48 ./Libraries/Application/Src/View/IdlingView.o
+ .rodata.Six    0x08005394       0x48 ./Libraries/Application/Src/View/IdlingView.o
+ .rodata.Seven  0x080053dc       0x48 ./Libraries/Application/Src/View/IdlingView.o
+ .rodata.Eight  0x08005424       0x48 ./Libraries/Application/Src/View/IdlingView.o
+ .rodata.Nine   0x0800546c       0x48 ./Libraries/Application/Src/View/IdlingView.o
+ .rodata.Zeros  0x080054b4       0x1b ./Libraries/Application/Src/View/IdlingView.o
+ *fill*         0x080054cf        0x1 
+ .rodata.Ones   0x080054d0       0x1b ./Libraries/Application/Src/View/IdlingView.o
+ *fill*         0x080054eb        0x1 
+ .rodata.Twos   0x080054ec       0x1b ./Libraries/Application/Src/View/IdlingView.o
+ *fill*         0x08005507        0x1 
  .rodata.Threes
-                0x0800524c       0x1b ./Libraries/Application/Src/View/IdlingView.o
- *fill*         0x08005267        0x1 
- .rodata.Fours  0x08005268       0x1b ./Libraries/Application/Src/View/IdlingView.o
- *fill*         0x08005283        0x1 
- .rodata.Fives  0x08005284       0x1b ./Libraries/Application/Src/View/IdlingView.o
- *fill*         0x0800529f        0x1 
- .rodata.Sixs   0x080052a0       0x1b ./Libraries/Application/Src/View/IdlingView.o
- *fill*         0x080052bb        0x1 
+                0x08005508       0x1b ./Libraries/Application/Src/View/IdlingView.o
+ *fill*         0x08005523        0x1 
+ .rodata.Fours  0x08005524       0x1b ./Libraries/Application/Src/View/IdlingView.o
+ *fill*         0x0800553f        0x1 
+ .rodata.Fives  0x08005540       0x1b ./Libraries/Application/Src/View/IdlingView.o
+ *fill*         0x0800555b        0x1 
+ .rodata.Sixs   0x0800555c       0x1b ./Libraries/Application/Src/View/IdlingView.o
+ *fill*         0x08005577        0x1 
  .rodata.Sevens
-                0x080052bc       0x1b ./Libraries/Application/Src/View/IdlingView.o
- *fill*         0x080052d7        0x1 
+                0x08005578       0x1b ./Libraries/Application/Src/View/IdlingView.o
+ *fill*         0x08005593        0x1 
  .rodata.Eights
-                0x080052d8       0x1b ./Libraries/Application/Src/View/IdlingView.o
- *fill*         0x080052f3        0x1 
- .rodata.Nines  0x080052f4       0x1b ./Libraries/Application/Src/View/IdlingView.o
- *fill*         0x0800530f        0x1 
- .rodata.Dots   0x08005310       0x20 ./Libraries/Application/Src/View/IdlingView.o
+                0x08005594       0x1b ./Libraries/Application/Src/View/IdlingView.o
+ *fill*         0x080055af        0x1 
+ .rodata.Nines  0x080055b0       0x1b ./Libraries/Application/Src/View/IdlingView.o
+ *fill*         0x080055cb        0x1 
+ .rodata.Dots   0x080055cc       0x20 ./Libraries/Application/Src/View/IdlingView.o
  .rodata.AlarmMenu
-                0x08005330       0x80 ./Libraries/Application/Src/View/MenuView.o
+                0x080055ec       0x80 ./Libraries/Application/Src/View/MenuView.o
  .rodata.CounterMenu
-                0x080053b0       0x80 ./Libraries/Application/Src/View/MenuView.o
+                0x0800566c       0x80 ./Libraries/Application/Src/View/MenuView.o
  .rodata.FlashMenu
-                0x08005430       0x80 ./Libraries/Application/Src/View/MenuView.o
+                0x080056ec       0x80 ./Libraries/Application/Src/View/MenuView.o
  .rodata.SettingMenu
-                0x080054b0       0x80 ./Libraries/Application/Src/View/MenuView.o
+                0x0800576c       0x80 ./Libraries/Application/Src/View/MenuView.o
  .rodata.CreditMenu
-                0x08005530       0x80 ./Libraries/Application/Src/View/MenuView.o
+                0x080057ec       0x80 ./Libraries/Application/Src/View/MenuView.o
  .rodata.BackMenu
-                0x080055b0       0x80 ./Libraries/Application/Src/View/MenuView.o
-                0x08005630                        . = ALIGN (0x4)
+                0x0800586c       0x80 ./Libraries/Application/Src/View/MenuView.o
+                0x080058ec                        . = ALIGN (0x4)
 
-.ARM.extab      0x08005630        0x0
-                0x08005630                        . = ALIGN (0x4)
+.ARM.extab      0x080058ec        0x0
+                0x080058ec                        . = ALIGN (0x4)
  *(.ARM.extab* .gnu.linkonce.armextab.*)
-                0x08005630                        . = ALIGN (0x4)
+                0x080058ec                        . = ALIGN (0x4)
 
-.ARM            0x08005630        0x0
-                0x08005630                        . = ALIGN (0x4)
-                0x08005630                        __exidx_start = .
+.ARM            0x080058ec        0x0
+                0x080058ec                        . = ALIGN (0x4)
+                0x080058ec                        __exidx_start = .
  *(.ARM.exidx*)
-                0x08005630                        __exidx_end = .
-                0x08005630                        . = ALIGN (0x4)
+                0x080058ec                        __exidx_end = .
+                0x080058ec                        . = ALIGN (0x4)
 
-.preinit_array  0x08005630        0x0
-                0x08005630                        . = ALIGN (0x4)
-                0x08005630                        PROVIDE (__preinit_array_start = .)
+.preinit_array  0x080058ec        0x0
+                0x080058ec                        . = ALIGN (0x4)
+                0x080058ec                        PROVIDE (__preinit_array_start = .)
  *(.preinit_array*)
-                0x08005630                        PROVIDE (__preinit_array_end = .)
-                0x08005630                        . = ALIGN (0x4)
+                0x080058ec                        PROVIDE (__preinit_array_end = .)
+                0x080058ec                        . = ALIGN (0x4)
 
-.init_array     0x08005630        0x4
-                0x08005630                        . = ALIGN (0x4)
-                0x08005630                        PROVIDE (__init_array_start = .)
+.init_array     0x080058ec        0x4
+                0x080058ec                        . = ALIGN (0x4)
+                0x080058ec                        PROVIDE (__init_array_start = .)
  *(SORT_BY_NAME(.init_array.*))
  *(.init_array*)
- .init_array    0x08005630        0x4 C:/Program Files/STM32CubeIDE_1.17.0/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.win32_1.1.0.202410251130/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7-m/nofp/crtbegin.o
-                0x08005634                        PROVIDE (__init_array_end = .)
-                0x08005634                        . = ALIGN (0x4)
+ .init_array    0x080058ec        0x4 C:/Program Files/STM32CubeIDE_1.17.0/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.win32_1.1.0.202410251130/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7-m/nofp/crtbegin.o
+                0x080058f0                        PROVIDE (__init_array_end = .)
+                0x080058f0                        . = ALIGN (0x4)
 
-.fini_array     0x08005634        0x4
-                0x08005634                        . = ALIGN (0x4)
+.fini_array     0x080058f0        0x4
+                0x080058f0                        . = ALIGN (0x4)
                 [!provide]                        PROVIDE (__fini_array_start = .)
  *(SORT_BY_NAME(.fini_array.*))
  *(.fini_array*)
- .fini_array    0x08005634        0x4 C:/Program Files/STM32CubeIDE_1.17.0/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.win32_1.1.0.202410251130/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7-m/nofp/crtbegin.o
+ .fini_array    0x080058f0        0x4 C:/Program Files/STM32CubeIDE_1.17.0/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.win32_1.1.0.202410251130/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7-m/nofp/crtbegin.o
                 [!provide]                        PROVIDE (__fini_array_end = .)
-                0x08005638                        . = ALIGN (0x4)
-                0x08005638                        _sidata = LOADADDR (.data)
+                0x080058f4                        . = ALIGN (0x4)
+                0x080058f4                        _sidata = LOADADDR (.data)
 
-.rel.dyn        0x08005638        0x0
- .rel.iplt      0x08005638        0x0 C:/Program Files/STM32CubeIDE_1.17.0/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.win32_1.1.0.202410251130/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7-m/nofp/crtbegin.o
+.rel.dyn        0x080058f4        0x0
+ .rel.iplt      0x080058f4        0x0 C:/Program Files/STM32CubeIDE_1.17.0/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.win32_1.1.0.202410251130/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7-m/nofp/crtbegin.o
 
-.data           0x20000000       0x1c load address 0x08005638
+.data           0x20000000       0x1c load address 0x080058f4
                 0x20000000                        . = ALIGN (0x4)
                 0x20000000                        _sdata = .
  *(.data)
@@ -4696,10 +4913,12 @@ LOAD C:/Program Files/STM32CubeIDE_1.17.0/STM32CubeIDE/plugins/com.st.stm32cube.
  .data.Alarmline
                 0x20000009        0x1 ./Libraries/Application/Src/Controller/AlarmCtrl.o
                 0x20000009                Alarmline
+ .data.Flashline
+                0x2000000a        0x1 ./Libraries/Application/Src/Controller/FlashCtrl.o
+                0x2000000a                Flashline
  .data.uFuncMenu
-                0x2000000a        0x1 ./Libraries/Application/Src/Controller/StateCtrl.o
-                0x2000000a                uFuncMenu
- *fill*         0x2000000b        0x1 
+                0x2000000b        0x1 ./Libraries/Application/Src/Controller/StateCtrl.o
+                0x2000000b                uFuncMenu
  .data.stCurrentTime
                 0x2000000c        0xd ./Libraries/Application/Src/Controller/StateCtrl.o
                 0x2000000c                stCurrentTime
@@ -4709,11 +4928,11 @@ LOAD C:/Program Files/STM32CubeIDE_1.17.0/STM32CubeIDE/plugins/com.st.stm32cube.
  *fill*         0x20000019        0x3 
                 0x2000001c                        _edata = .
 
-.igot.plt       0x2000001c        0x0 load address 0x08005654
+.igot.plt       0x2000001c        0x0 load address 0x08005910
  .igot.plt      0x2000001c        0x0 C:/Program Files/STM32CubeIDE_1.17.0/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.win32_1.1.0.202410251130/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7-m/nofp/crtbegin.o
                 0x2000001c                        . = ALIGN (0x4)
 
-.bss            0x2000001c      0x56c load address 0x08005654
+.bss            0x2000001c      0x570 load address 0x08005910
                 0x2000001c                        _sbss = .
                 0x2000001c                        __bss_start__ = _sbss
  *(.bss)
@@ -4733,84 +4952,89 @@ LOAD C:/Program Files/STM32CubeIDE_1.17.0/STM32CubeIDE/plugins/com.st.stm32cube.
                 0x20000120                uwTick
  .bss.AlarmPos  0x20000124        0x1 ./Libraries/Application/Src/Controller/AlarmCtrl.o
                 0x20000124                AlarmPos
+ .bss.FlashOn   0x20000125        0x1 ./Libraries/Application/Src/Controller/FlashCtrl.o
+                0x20000125                FlashOn
+ .bss.lastState.0
+                0x20000126        0x1 ./Libraries/Application/Src/Controller/FlashCtrl.o
  .bss.uStateLevel
-                0x20000125        0x1 ./Libraries/Application/Src/Controller/StateCtrl.o
-                0x20000125                uStateLevel
- .bss.uNumIcon  0x20000126        0x1 ./Libraries/Application/Src/Controller/StateCtrl.o
-                0x20000126                uNumIcon
- *fill*         0x20000127        0x1 
- .bss.stAlarm1  0x20000128       0x1e ./Libraries/Application/Src/Controller/StateCtrl.o
-                0x20000128                stAlarm1
- *fill*         0x20000146        0x2 
- .bss.btnUp     0x20000148        0x4 ./Libraries/Application/Src/Controller/StateCtrl.o
-                0x20000148                btnUp
- .bss.btnDown   0x2000014c        0x4 ./Libraries/Application/Src/Controller/StateCtrl.o
-                0x2000014c                btnDown
- .bss.btnPush   0x20000150        0x4 ./Libraries/Application/Src/Controller/StateCtrl.o
-                0x20000150                btnPush
- .bss.Buffer    0x20000154      0x400 ./Libraries/Application/Src/ScreenUtilities.o
-                0x20000154                Buffer
- .bss.Pos       0x20000554        0x2 ./Libraries/Application/Src/ScreenUtilities.o
-                0x20000554                Pos
- *fill*         0x20000556        0x2 
+                0x20000127        0x1 ./Libraries/Application/Src/Controller/StateCtrl.o
+                0x20000127                uStateLevel
+ .bss.uNumIcon  0x20000128        0x1 ./Libraries/Application/Src/Controller/StateCtrl.o
+                0x20000128                uNumIcon
+ *fill*         0x20000129        0x3 
+ .bss.stAlarm1  0x2000012c       0x1e ./Libraries/Application/Src/Controller/StateCtrl.o
+                0x2000012c                stAlarm1
+ *fill*         0x2000014a        0x2 
+ .bss.btnUp     0x2000014c        0x4 ./Libraries/Application/Src/Controller/StateCtrl.o
+                0x2000014c                btnUp
+ .bss.btnDown   0x20000150        0x4 ./Libraries/Application/Src/Controller/StateCtrl.o
+                0x20000150                btnDown
+ .bss.btnPush   0x20000154        0x4 ./Libraries/Application/Src/Controller/StateCtrl.o
+                0x20000154                btnPush
+ .bss.Buffer    0x20000158      0x400 ./Libraries/Application/Src/ScreenUtilities.o
+                0x20000158                Buffer
+ .bss.Pos       0x20000558        0x2 ./Libraries/Application/Src/ScreenUtilities.o
+                0x20000558                Pos
+ *fill*         0x2000055a        0x2 
  .bss.pTimCtrlBeep
-                0x20000558        0x4 ./Libraries/Firmware/Src/Beep_pwm.o
-                0x20000558                pTimCtrlBeep
- .bss.uTimChannel
                 0x2000055c        0x4 ./Libraries/Firmware/Src/Beep_pwm.o
-                0x2000055c                uTimChannel
+                0x2000055c                pTimCtrlBeep
+ .bss.uTimChannel
+                0x20000560        0x4 ./Libraries/Firmware/Src/Beep_pwm.o
+                0x20000560                uTimChannel
  .bss.pGpioCtrlBtnUp
-                0x20000560        0x4 ./Libraries/Firmware/Src/Button_gpio.o
-                0x20000560                pGpioCtrlBtnUp
- .bss.pGpioCtrlBtnDown
                 0x20000564        0x4 ./Libraries/Firmware/Src/Button_gpio.o
-                0x20000564                pGpioCtrlBtnDown
- .bss.pGpioCtrlBtnPush
+                0x20000564                pGpioCtrlBtnUp
+ .bss.pGpioCtrlBtnDown
                 0x20000568        0x4 ./Libraries/Firmware/Src/Button_gpio.o
-                0x20000568                pGpioCtrlBtnPush
+                0x20000568                pGpioCtrlBtnDown
+ .bss.pGpioCtrlBtnPush
+                0x2000056c        0x4 ./Libraries/Firmware/Src/Button_gpio.o
+                0x2000056c                pGpioCtrlBtnPush
  .bss.uGpioPinUp
-                0x2000056c        0x2 ./Libraries/Firmware/Src/Button_gpio.o
-                0x2000056c                uGpioPinUp
- .bss.uGpioPinDown
-                0x2000056e        0x2 ./Libraries/Firmware/Src/Button_gpio.o
-                0x2000056e                uGpioPinDown
- .bss.uGpioPinPush
                 0x20000570        0x2 ./Libraries/Firmware/Src/Button_gpio.o
-                0x20000570                uGpioPinPush
- *fill*         0x20000572        0x2 
+                0x20000570                uGpioPinUp
+ .bss.uGpioPinDown
+                0x20000572        0x2 ./Libraries/Firmware/Src/Button_gpio.o
+                0x20000572                uGpioPinDown
+ .bss.uGpioPinPush
+                0x20000574        0x2 ./Libraries/Firmware/Src/Button_gpio.o
+                0x20000574                uGpioPinPush
+ *fill*         0x20000576        0x2 
  .bss.pGpioCtrlLed1
-                0x20000574        0x4 ./Libraries/Firmware/Src/Led_gpio.o
-                0x20000574                pGpioCtrlLed1
- .bss.pGpioCtrlLed2
                 0x20000578        0x4 ./Libraries/Firmware/Src/Led_gpio.o
-                0x20000578                pGpioCtrlLed2
+                0x20000578                pGpioCtrlLed1
+ .bss.pGpioCtrlLed2
+                0x2000057c        0x4 ./Libraries/Firmware/Src/Led_gpio.o
+                0x2000057c                pGpioCtrlLed2
  .bss.uGpioPin1
-                0x2000057c        0x2 ./Libraries/Firmware/Src/Led_gpio.o
-                0x2000057c                uGpioPin1
+                0x20000580        0x2 ./Libraries/Firmware/Src/Led_gpio.o
+                0x20000580                uGpioPin1
  .bss.uGpioPin2
-                0x2000057e        0x2 ./Libraries/Firmware/Src/Led_gpio.o
-                0x2000057e                uGpioPin2
+                0x20000582        0x2 ./Libraries/Firmware/Src/Led_gpio.o
+                0x20000582                uGpioPin2
  .bss.pI2cCtrlSh1106
-                0x20000580        0x4 ./Libraries/Firmware/Src/Oled_sh1106_i2c.o
-                0x20000580                pI2cCtrlSh1106
+                0x20000584        0x4 ./Libraries/Firmware/Src/Oled_sh1106_i2c.o
+                0x20000584                pI2cCtrlSh1106
  .bss.pI2cController
-                0x20000584        0x4 ./Libraries/Firmware/Src/Rtc_ds1307_i2c.o
-                0x20000584                pI2cController
+                0x20000588        0x4 ./Libraries/Firmware/Src/Rtc_ds1307_i2c.o
+                0x20000588                pI2cController
  *(COMMON)
-                0x20000588                        . = ALIGN (0x4)
-                0x20000588                        _ebss = .
-                0x20000588                        __bss_end__ = _ebss
+                0x2000058c                        . = ALIGN (0x4)
+                0x2000058c                        _ebss = .
+                0x2000058c                        __bss_end__ = _ebss
 
 ._user_heap_stack
-                0x20000588      0x600 load address 0x08005654
-                0x20000588                        . = ALIGN (0x8)
+                0x2000058c      0x604 load address 0x08005910
+                0x20000590                        . = ALIGN (0x8)
+ *fill*         0x2000058c        0x4 
                 [!provide]                        PROVIDE (end = .)
-                0x20000588                        PROVIDE (_end = .)
-                0x20000788                        . = (. + _Min_Heap_Size)
- *fill*         0x20000588      0x200 
-                0x20000b88                        . = (. + _Min_Stack_Size)
- *fill*         0x20000788      0x400 
-                0x20000b88                        . = ALIGN (0x8)
+                0x20000590                        PROVIDE (_end = .)
+                0x20000790                        . = (. + _Min_Heap_Size)
+ *fill*         0x20000590      0x200 
+                0x20000b90                        . = (. + _Min_Stack_Size)
+ *fill*         0x20000790      0x400 
+                0x20000b90                        . = ALIGN (0x8)
 
 /DISCARD/
  libc.a(*)
@@ -4851,44 +5075,48 @@ LOAD C:/Program Files/STM32CubeIDE_1.17.0/STM32CubeIDE/plugins/com.st.stm32cube.
  .ARM.attributes
                 0x0000025a       0x2d ./Libraries/Application/Src/Controller/AlarmCtrl.o
  .ARM.attributes
-                0x00000287       0x2d ./Libraries/Application/Src/Controller/IdlingCtrl.o
+                0x00000287       0x2d ./Libraries/Application/Src/Controller/FlashCtrl.o
  .ARM.attributes
-                0x000002b4       0x2d ./Libraries/Application/Src/Controller/MenuCtrl.o
+                0x000002b4       0x2d ./Libraries/Application/Src/Controller/IdlingCtrl.o
  .ARM.attributes
-                0x000002e1       0x2d ./Libraries/Application/Src/Controller/StateCtrl.o
+                0x000002e1       0x2d ./Libraries/Application/Src/Controller/MenuCtrl.o
  .ARM.attributes
-                0x0000030e       0x2d ./Libraries/Application/Src/ScreenUtilities.o
+                0x0000030e       0x2d ./Libraries/Application/Src/Controller/StateCtrl.o
  .ARM.attributes
-                0x0000033b       0x2d ./Libraries/Application/Src/View/AlarmView.o
+                0x0000033b       0x2d ./Libraries/Application/Src/ScreenUtilities.o
  .ARM.attributes
-                0x00000368       0x2d ./Libraries/Application/Src/View/GeneralDisplay.o
+                0x00000368       0x2d ./Libraries/Application/Src/View/AlarmView.o
  .ARM.attributes
-                0x00000395       0x2d ./Libraries/Application/Src/View/IdlingView.o
+                0x00000395       0x2d ./Libraries/Application/Src/View/FlashView.o
  .ARM.attributes
-                0x000003c2       0x2d ./Libraries/Application/Src/View/MenuView.o
+                0x000003c2       0x2d ./Libraries/Application/Src/View/GeneralDisplay.o
  .ARM.attributes
-                0x000003ef       0x2d ./Libraries/Firmware/Src/Beep_pwm.o
+                0x000003ef       0x2d ./Libraries/Application/Src/View/IdlingView.o
  .ARM.attributes
-                0x0000041c       0x2d ./Libraries/Firmware/Src/Button_gpio.o
+                0x0000041c       0x2d ./Libraries/Application/Src/View/MenuView.o
  .ARM.attributes
-                0x00000449       0x2d ./Libraries/Firmware/Src/Led_gpio.o
+                0x00000449       0x2d ./Libraries/Firmware/Src/Beep_pwm.o
  .ARM.attributes
-                0x00000476       0x2d ./Libraries/Firmware/Src/Oled_sh1106_i2c.o
+                0x00000476       0x2d ./Libraries/Firmware/Src/Button_gpio.o
  .ARM.attributes
-                0x000004a3       0x2d ./Libraries/Firmware/Src/Rtc_ds1307_i2c.o
+                0x000004a3       0x2d ./Libraries/Firmware/Src/Led_gpio.o
  .ARM.attributes
-                0x000004d0       0x2d C:/Program Files/STM32CubeIDE_1.17.0/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.win32_1.1.0.202410251130/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc_nano.a(libc_a-memset.o)
+                0x000004d0       0x2d ./Libraries/Firmware/Src/Oled_sh1106_i2c.o
  .ARM.attributes
-                0x000004fd       0x2d C:/Program Files/STM32CubeIDE_1.17.0/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.win32_1.1.0.202410251130/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc_nano.a(libc_a-init.o)
+                0x000004fd       0x2d ./Libraries/Firmware/Src/Rtc_ds1307_i2c.o
  .ARM.attributes
-                0x0000052a       0x1d C:/Program Files/STM32CubeIDE_1.17.0/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.win32_1.1.0.202410251130/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7-m/nofp/crtn.o
+                0x0000052a       0x2d C:/Program Files/STM32CubeIDE_1.17.0/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.win32_1.1.0.202410251130/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc_nano.a(libc_a-memset.o)
+ .ARM.attributes
+                0x00000557       0x2d C:/Program Files/STM32CubeIDE_1.17.0/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.win32_1.1.0.202410251130/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc_nano.a(libc_a-init.o)
+ .ARM.attributes
+                0x00000584       0x1d C:/Program Files/STM32CubeIDE_1.17.0/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.win32_1.1.0.202410251130/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7-m/nofp/crtn.o
 OUTPUT(Donghodeotay_STM32.elf elf32-littlearm)
 LOAD linker stubs
 LOAD C:/Program Files/STM32CubeIDE_1.17.0/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.win32_1.1.0.202410251130/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc.a
 LOAD C:/Program Files/STM32CubeIDE_1.17.0/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.win32_1.1.0.202410251130/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libm.a
 LOAD C:/Program Files/STM32CubeIDE_1.17.0/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.win32_1.1.0.202410251130/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7-m/nofp\libgcc.a
 
-.debug_info     0x00000000     0xea63
+.debug_info     0x00000000     0xef8a
  .debug_info    0x00000000     0x1496 ./Core/Src/main.o
  .debug_info    0x00001496      0xde2 ./Core/Src/stm32f1xx_hal_msp.o
  .debug_info    0x00002278      0x6a1 ./Core/Src/stm32f1xx_it.o
@@ -4902,21 +5130,23 @@ LOAD C:/Program Files/STM32CubeIDE_1.17.0/STM32CubeIDE/plugins/com.st.stm32cube.
  .debug_info    0x00006f9a     0x2959 ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.o
  .debug_info    0x000098f3     0x149b ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.o
  .debug_info    0x0000ad8e      0x44f ./Libraries/Application/Src/Controller/AlarmCtrl.o
- .debug_info    0x0000b1dd      0x3b0 ./Libraries/Application/Src/Controller/IdlingCtrl.o
- .debug_info    0x0000b58d      0x2d9 ./Libraries/Application/Src/Controller/MenuCtrl.o
- .debug_info    0x0000b866      0x6df ./Libraries/Application/Src/Controller/StateCtrl.o
- .debug_info    0x0000bf45      0x45b ./Libraries/Application/Src/ScreenUtilities.o
- .debug_info    0x0000c3a0      0x1d6 ./Libraries/Application/Src/View/AlarmView.o
- .debug_info    0x0000c576      0x321 ./Libraries/Application/Src/View/GeneralDisplay.o
- .debug_info    0x0000c897      0x367 ./Libraries/Application/Src/View/IdlingView.o
- .debug_info    0x0000cbfe      0x26a ./Libraries/Application/Src/View/MenuView.o
- .debug_info    0x0000ce68      0x75a ./Libraries/Firmware/Src/Beep_pwm.o
- .debug_info    0x0000d5c2      0x2f5 ./Libraries/Firmware/Src/Button_gpio.o
- .debug_info    0x0000d8b7      0x24b ./Libraries/Firmware/Src/Led_gpio.o
- .debug_info    0x0000db02      0x772 ./Libraries/Firmware/Src/Oled_sh1106_i2c.o
- .debug_info    0x0000e274      0x7ef ./Libraries/Firmware/Src/Rtc_ds1307_i2c.o
+ .debug_info    0x0000b1dd      0x2d1 ./Libraries/Application/Src/Controller/FlashCtrl.o
+ .debug_info    0x0000b4ae      0x45e ./Libraries/Application/Src/Controller/IdlingCtrl.o
+ .debug_info    0x0000b90c      0x2d9 ./Libraries/Application/Src/Controller/MenuCtrl.o
+ .debug_info    0x0000bbe5      0x70e ./Libraries/Application/Src/Controller/StateCtrl.o
+ .debug_info    0x0000c2f3      0x45b ./Libraries/Application/Src/ScreenUtilities.o
+ .debug_info    0x0000c74e      0x1d6 ./Libraries/Application/Src/View/AlarmView.o
+ .debug_info    0x0000c924      0x179 ./Libraries/Application/Src/View/FlashView.o
+ .debug_info    0x0000ca9d      0x321 ./Libraries/Application/Src/View/GeneralDisplay.o
+ .debug_info    0x0000cdbe      0x367 ./Libraries/Application/Src/View/IdlingView.o
+ .debug_info    0x0000d125      0x26a ./Libraries/Application/Src/View/MenuView.o
+ .debug_info    0x0000d38f      0x75a ./Libraries/Firmware/Src/Beep_pwm.o
+ .debug_info    0x0000dae9      0x2f5 ./Libraries/Firmware/Src/Button_gpio.o
+ .debug_info    0x0000ddde      0x24b ./Libraries/Firmware/Src/Led_gpio.o
+ .debug_info    0x0000e029      0x772 ./Libraries/Firmware/Src/Oled_sh1106_i2c.o
+ .debug_info    0x0000e79b      0x7ef ./Libraries/Firmware/Src/Rtc_ds1307_i2c.o
 
-.debug_abbrev   0x00000000     0x2b6b
+.debug_abbrev   0x00000000     0x2d79
  .debug_abbrev  0x00000000      0x304 ./Core/Src/main.o
  .debug_abbrev  0x00000304      0x1d5 ./Core/Src/stm32f1xx_hal_msp.o
  .debug_abbrev  0x000004d9      0x191 ./Core/Src/stm32f1xx_it.o
@@ -4930,21 +5160,23 @@ LOAD C:/Program Files/STM32CubeIDE_1.17.0/STM32CubeIDE/plugins/com.st.stm32cube.
  .debug_abbrev  0x000013e6      0x277 ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.o
  .debug_abbrev  0x0000165d      0x282 ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.o
  .debug_abbrev  0x000018df      0x146 ./Libraries/Application/Src/Controller/AlarmCtrl.o
- .debug_abbrev  0x00001a25      0x151 ./Libraries/Application/Src/Controller/IdlingCtrl.o
- .debug_abbrev  0x00001b76      0x143 ./Libraries/Application/Src/Controller/MenuCtrl.o
- .debug_abbrev  0x00001cb9      0x134 ./Libraries/Application/Src/Controller/StateCtrl.o
- .debug_abbrev  0x00001ded      0x170 ./Libraries/Application/Src/ScreenUtilities.o
- .debug_abbrev  0x00001f5d      0x106 ./Libraries/Application/Src/View/AlarmView.o
- .debug_abbrev  0x00002063      0x13c ./Libraries/Application/Src/View/GeneralDisplay.o
- .debug_abbrev  0x0000219f      0x107 ./Libraries/Application/Src/View/IdlingView.o
- .debug_abbrev  0x000022a6       0xfc ./Libraries/Application/Src/View/MenuView.o
- .debug_abbrev  0x000023a2      0x1a6 ./Libraries/Firmware/Src/Beep_pwm.o
- .debug_abbrev  0x00002548      0x148 ./Libraries/Firmware/Src/Button_gpio.o
- .debug_abbrev  0x00002690      0x150 ./Libraries/Firmware/Src/Led_gpio.o
- .debug_abbrev  0x000027e0      0x1c0 ./Libraries/Firmware/Src/Oled_sh1106_i2c.o
- .debug_abbrev  0x000029a0      0x1cb ./Libraries/Firmware/Src/Rtc_ds1307_i2c.o
+ .debug_abbrev  0x00001a25      0x143 ./Libraries/Application/Src/Controller/FlashCtrl.o
+ .debug_abbrev  0x00001b68      0x123 ./Libraries/Application/Src/Controller/IdlingCtrl.o
+ .debug_abbrev  0x00001c8b      0x143 ./Libraries/Application/Src/Controller/MenuCtrl.o
+ .debug_abbrev  0x00001dce      0x135 ./Libraries/Application/Src/Controller/StateCtrl.o
+ .debug_abbrev  0x00001f03      0x170 ./Libraries/Application/Src/ScreenUtilities.o
+ .debug_abbrev  0x00002073      0x106 ./Libraries/Application/Src/View/AlarmView.o
+ .debug_abbrev  0x00002179       0xf8 ./Libraries/Application/Src/View/FlashView.o
+ .debug_abbrev  0x00002271      0x13c ./Libraries/Application/Src/View/GeneralDisplay.o
+ .debug_abbrev  0x000023ad      0x107 ./Libraries/Application/Src/View/IdlingView.o
+ .debug_abbrev  0x000024b4       0xfc ./Libraries/Application/Src/View/MenuView.o
+ .debug_abbrev  0x000025b0      0x1a6 ./Libraries/Firmware/Src/Beep_pwm.o
+ .debug_abbrev  0x00002756      0x148 ./Libraries/Firmware/Src/Button_gpio.o
+ .debug_abbrev  0x0000289e      0x150 ./Libraries/Firmware/Src/Led_gpio.o
+ .debug_abbrev  0x000029ee      0x1c0 ./Libraries/Firmware/Src/Oled_sh1106_i2c.o
+ .debug_abbrev  0x00002bae      0x1cb ./Libraries/Firmware/Src/Rtc_ds1307_i2c.o
 
-.debug_aranges  0x00000000      0xeb8
+.debug_aranges  0x00000000      0xf18
  .debug_aranges
                 0x00000000       0x58 ./Core/Src/main.o
  .debug_aranges
@@ -4972,34 +5204,38 @@ LOAD C:/Program Files/STM32CubeIDE_1.17.0/STM32CubeIDE/plugins/com.st.stm32cube.
  .debug_aranges
                 0x00000c00       0x30 ./Libraries/Application/Src/Controller/AlarmCtrl.o
  .debug_aranges
-                0x00000c30       0x20 ./Libraries/Application/Src/Controller/IdlingCtrl.o
+                0x00000c30       0x28 ./Libraries/Application/Src/Controller/FlashCtrl.o
  .debug_aranges
-                0x00000c50       0x20 ./Libraries/Application/Src/Controller/MenuCtrl.o
+                0x00000c58       0x20 ./Libraries/Application/Src/Controller/IdlingCtrl.o
  .debug_aranges
-                0x00000c70       0x28 ./Libraries/Application/Src/Controller/StateCtrl.o
+                0x00000c78       0x20 ./Libraries/Application/Src/Controller/MenuCtrl.o
  .debug_aranges
-                0x00000c98       0x78 ./Libraries/Application/Src/ScreenUtilities.o
+                0x00000c98       0x28 ./Libraries/Application/Src/Controller/StateCtrl.o
  .debug_aranges
-                0x00000d10       0x20 ./Libraries/Application/Src/View/AlarmView.o
+                0x00000cc0       0x78 ./Libraries/Application/Src/ScreenUtilities.o
  .debug_aranges
-                0x00000d30       0x28 ./Libraries/Application/Src/View/GeneralDisplay.o
+                0x00000d38       0x20 ./Libraries/Application/Src/View/AlarmView.o
  .debug_aranges
-                0x00000d58       0x20 ./Libraries/Application/Src/View/IdlingView.o
+                0x00000d58       0x38 ./Libraries/Application/Src/View/FlashView.o
  .debug_aranges
-                0x00000d78       0x28 ./Libraries/Application/Src/View/MenuView.o
+                0x00000d90       0x28 ./Libraries/Application/Src/View/GeneralDisplay.o
  .debug_aranges
-                0x00000da0       0x28 ./Libraries/Firmware/Src/Beep_pwm.o
+                0x00000db8       0x20 ./Libraries/Application/Src/View/IdlingView.o
  .debug_aranges
-                0x00000dc8       0x38 ./Libraries/Firmware/Src/Button_gpio.o
+                0x00000dd8       0x28 ./Libraries/Application/Src/View/MenuView.o
  .debug_aranges
-                0x00000e00       0x30 ./Libraries/Firmware/Src/Led_gpio.o
+                0x00000e00       0x28 ./Libraries/Firmware/Src/Beep_pwm.o
  .debug_aranges
-                0x00000e30       0x38 ./Libraries/Firmware/Src/Oled_sh1106_i2c.o
+                0x00000e28       0x38 ./Libraries/Firmware/Src/Button_gpio.o
  .debug_aranges
-                0x00000e68       0x50 ./Libraries/Firmware/Src/Rtc_ds1307_i2c.o
+                0x00000e60       0x30 ./Libraries/Firmware/Src/Led_gpio.o
+ .debug_aranges
+                0x00000e90       0x38 ./Libraries/Firmware/Src/Oled_sh1106_i2c.o
+ .debug_aranges
+                0x00000ec8       0x50 ./Libraries/Firmware/Src/Rtc_ds1307_i2c.o
 
 .debug_rnglists
-                0x00000000      0xb59
+                0x00000000      0xb99
  .debug_rnglists
                 0x00000000       0x41 ./Core/Src/main.o
  .debug_rnglists
@@ -5027,185 +5263,197 @@ LOAD C:/Program Files/STM32CubeIDE_1.17.0/STM32CubeIDE/plugins/com.st.stm32cube.
  .debug_rnglists
                 0x00000972       0x22 ./Libraries/Application/Src/Controller/AlarmCtrl.o
  .debug_rnglists
-                0x00000994       0x13 ./Libraries/Application/Src/Controller/IdlingCtrl.o
+                0x00000994       0x1a ./Libraries/Application/Src/Controller/FlashCtrl.o
  .debug_rnglists
-                0x000009a7       0x13 ./Libraries/Application/Src/Controller/MenuCtrl.o
+                0x000009ae       0x13 ./Libraries/Application/Src/Controller/IdlingCtrl.o
  .debug_rnglists
-                0x000009ba       0x1b ./Libraries/Application/Src/Controller/StateCtrl.o
+                0x000009c1       0x13 ./Libraries/Application/Src/Controller/MenuCtrl.o
  .debug_rnglists
-                0x000009d5       0x56 ./Libraries/Application/Src/ScreenUtilities.o
+                0x000009d4       0x1b ./Libraries/Application/Src/Controller/StateCtrl.o
  .debug_rnglists
-                0x00000a2b       0x14 ./Libraries/Application/Src/View/AlarmView.o
+                0x000009ef       0x56 ./Libraries/Application/Src/ScreenUtilities.o
  .debug_rnglists
-                0x00000a3f       0x1b ./Libraries/Application/Src/View/GeneralDisplay.o
+                0x00000a45       0x14 ./Libraries/Application/Src/View/AlarmView.o
  .debug_rnglists
-                0x00000a5a       0x14 ./Libraries/Application/Src/View/IdlingView.o
+                0x00000a59       0x26 ./Libraries/Application/Src/View/FlashView.o
  .debug_rnglists
-                0x00000a6e       0x1b ./Libraries/Application/Src/View/MenuView.o
+                0x00000a7f       0x1b ./Libraries/Application/Src/View/GeneralDisplay.o
  .debug_rnglists
-                0x00000a89       0x1a ./Libraries/Firmware/Src/Beep_pwm.o
+                0x00000a9a       0x14 ./Libraries/Application/Src/View/IdlingView.o
  .debug_rnglists
-                0x00000aa3       0x28 ./Libraries/Firmware/Src/Button_gpio.o
+                0x00000aae       0x1b ./Libraries/Application/Src/View/MenuView.o
  .debug_rnglists
-                0x00000acb       0x1f ./Libraries/Firmware/Src/Led_gpio.o
+                0x00000ac9       0x1a ./Libraries/Firmware/Src/Beep_pwm.o
  .debug_rnglists
-                0x00000aea       0x36 ./Libraries/Firmware/Src/Oled_sh1106_i2c.o
+                0x00000ae3       0x28 ./Libraries/Firmware/Src/Button_gpio.o
  .debug_rnglists
-                0x00000b20       0x39 ./Libraries/Firmware/Src/Rtc_ds1307_i2c.o
+                0x00000b0b       0x1f ./Libraries/Firmware/Src/Led_gpio.o
+ .debug_rnglists
+                0x00000b2a       0x36 ./Libraries/Firmware/Src/Oled_sh1106_i2c.o
+ .debug_rnglists
+                0x00000b60       0x39 ./Libraries/Firmware/Src/Rtc_ds1307_i2c.o
 
-.debug_macro    0x00000000    0x1926d
- .debug_macro   0x00000000      0x7aa ./Core/Src/main.o
- .debug_macro   0x000007aa      0xaa8 ./Core/Src/main.o
- .debug_macro   0x00001252      0x21b ./Core/Src/main.o
- .debug_macro   0x0000146d       0x2e ./Core/Src/main.o
- .debug_macro   0x0000149b       0x22 ./Core/Src/main.o
- .debug_macro   0x000014bd       0x22 ./Core/Src/main.o
- .debug_macro   0x000014df       0x8e ./Core/Src/main.o
- .debug_macro   0x0000156d       0x51 ./Core/Src/main.o
- .debug_macro   0x000015be      0x103 ./Core/Src/main.o
- .debug_macro   0x000016c1       0x6a ./Core/Src/main.o
- .debug_macro   0x0000172b      0x1df ./Core/Src/main.o
- .debug_macro   0x0000190a       0x1c ./Core/Src/main.o
- .debug_macro   0x00001926       0x22 ./Core/Src/main.o
- .debug_macro   0x00001948       0xbd ./Core/Src/main.o
- .debug_macro   0x00001a05      0xd23 ./Core/Src/main.o
- .debug_macro   0x00002728     0xe09e ./Core/Src/main.o
- .debug_macro   0x000107c6       0x6d ./Core/Src/main.o
- .debug_macro   0x00010833     0x34a2 ./Core/Src/main.o
- .debug_macro   0x00013cd5      0x189 ./Core/Src/main.o
- .debug_macro   0x00013e5e       0x5c ./Core/Src/main.o
- .debug_macro   0x00013eba      0x5bc ./Core/Src/main.o
- .debug_macro   0x00014476      0x289 ./Core/Src/main.o
- .debug_macro   0x000146ff      0x1cb ./Core/Src/main.o
- .debug_macro   0x000148ca      0x114 ./Core/Src/main.o
- .debug_macro   0x000149de      0x1b2 ./Core/Src/main.o
- .debug_macro   0x00014b90       0x27 ./Core/Src/main.o
- .debug_macro   0x00014bb7      0x136 ./Core/Src/main.o
- .debug_macro   0x00014ced      0x1bc ./Core/Src/main.o
- .debug_macro   0x00014ea9       0x34 ./Core/Src/main.o
- .debug_macro   0x00014edd       0x3c ./Core/Src/main.o
- .debug_macro   0x00014f19       0x57 ./Core/Src/main.o
- .debug_macro   0x00014f70       0x87 ./Core/Src/main.o
- .debug_macro   0x00014ff7      0x240 ./Core/Src/main.o
- .debug_macro   0x00015237      0x287 ./Core/Src/main.o
- .debug_macro   0x000154be      0x140 ./Core/Src/main.o
- .debug_macro   0x000155fe      0x8ed ./Core/Src/main.o
- .debug_macro   0x00015eeb       0x83 ./Core/Src/main.o
- .debug_macro   0x00015f6e       0xa6 ./Core/Src/main.o
- .debug_macro   0x00016014       0x22 ./Core/Src/main.o
- .debug_macro   0x00016036       0x52 ./Core/Src/main.o
- .debug_macro   0x00016088       0x2e ./Core/Src/main.o
- .debug_macro   0x000160b6       0x34 ./Core/Src/main.o
- .debug_macro   0x000160ea       0x2e ./Core/Src/main.o
- .debug_macro   0x00016118       0x28 ./Core/Src/main.o
- .debug_macro   0x00016140       0xa0 ./Core/Src/main.o
- .debug_macro   0x000161e0       0x10 ./Core/Src/main.o
- .debug_macro   0x000161f0       0xe2 ./Core/Src/main.o
- .debug_macro   0x000162d2      0x1ad ./Core/Src/stm32f1xx_hal_msp.o
- .debug_macro   0x0001647f      0x1b7 ./Core/Src/stm32f1xx_it.o
- .debug_macro   0x00016636      0x1a3 ./Core/Src/system_stm32f1xx.o
- .debug_macro   0x000167d9      0x1c7 ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.o
- .debug_macro   0x000169a0      0x1a3 ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.o
- .debug_macro   0x00016b43      0x20e ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.o
- .debug_macro   0x00016d51      0x1f1 ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.o
- .debug_macro   0x00016f42      0x1b5 ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.o
- .debug_macro   0x000170f7      0x1a4 ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.o
- .debug_macro   0x0001729b      0x1a3 ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.o
- .debug_macro   0x0001743e      0x29f ./Libraries/Application/Src/Controller/AlarmCtrl.o
- .debug_macro   0x000176dd      0x24b ./Libraries/Application/Src/Controller/IdlingCtrl.o
- .debug_macro   0x00017928      0x242 ./Libraries/Application/Src/Controller/MenuCtrl.o
- .debug_macro   0x00017b6a      0x448 ./Libraries/Application/Src/Controller/StateCtrl.o
- .debug_macro   0x00017fb2      0x1f4 ./Libraries/Application/Src/ScreenUtilities.o
- .debug_macro   0x000181a6      0x205 ./Libraries/Application/Src/View/AlarmView.o
- .debug_macro   0x000183ab      0x215 ./Libraries/Application/Src/View/GeneralDisplay.o
- .debug_macro   0x000185c0      0x20b ./Libraries/Application/Src/View/IdlingView.o
- .debug_macro   0x000187cb      0x202 ./Libraries/Application/Src/View/MenuView.o
- .debug_macro   0x000189cd      0x1b7 ./Libraries/Firmware/Src/Beep_pwm.o
- .debug_macro   0x00018b84      0x1ba ./Libraries/Firmware/Src/Button_gpio.o
- .debug_macro   0x00018d3e      0x1ba ./Libraries/Firmware/Src/Led_gpio.o
- .debug_macro   0x00018ef8      0x1b6 ./Libraries/Firmware/Src/Oled_sh1106_i2c.o
- .debug_macro   0x000190ae      0x1bf ./Libraries/Firmware/Src/Rtc_ds1307_i2c.o
+.debug_macro    0x00000000    0x199f4
+ .debug_macro   0x00000000      0x912 ./Core/Src/main.o
+ .debug_macro   0x00000912      0xaa8 ./Core/Src/main.o
+ .debug_macro   0x000013ba      0x21b ./Core/Src/main.o
+ .debug_macro   0x000015d5       0x2e ./Core/Src/main.o
+ .debug_macro   0x00001603       0x22 ./Core/Src/main.o
+ .debug_macro   0x00001625       0x22 ./Core/Src/main.o
+ .debug_macro   0x00001647       0x8e ./Core/Src/main.o
+ .debug_macro   0x000016d5       0x51 ./Core/Src/main.o
+ .debug_macro   0x00001726      0x103 ./Core/Src/main.o
+ .debug_macro   0x00001829       0x6a ./Core/Src/main.o
+ .debug_macro   0x00001893      0x1df ./Core/Src/main.o
+ .debug_macro   0x00001a72       0x1c ./Core/Src/main.o
+ .debug_macro   0x00001a8e       0x22 ./Core/Src/main.o
+ .debug_macro   0x00001ab0       0xbd ./Core/Src/main.o
+ .debug_macro   0x00001b6d      0xd23 ./Core/Src/main.o
+ .debug_macro   0x00002890     0xe09e ./Core/Src/main.o
+ .debug_macro   0x0001092e       0x6d ./Core/Src/main.o
+ .debug_macro   0x0001099b     0x34a2 ./Core/Src/main.o
+ .debug_macro   0x00013e3d      0x189 ./Core/Src/main.o
+ .debug_macro   0x00013fc6       0x5c ./Core/Src/main.o
+ .debug_macro   0x00014022      0x5bc ./Core/Src/main.o
+ .debug_macro   0x000145de      0x289 ./Core/Src/main.o
+ .debug_macro   0x00014867      0x1cb ./Core/Src/main.o
+ .debug_macro   0x00014a32      0x114 ./Core/Src/main.o
+ .debug_macro   0x00014b46      0x1b2 ./Core/Src/main.o
+ .debug_macro   0x00014cf8       0x27 ./Core/Src/main.o
+ .debug_macro   0x00014d1f      0x136 ./Core/Src/main.o
+ .debug_macro   0x00014e55      0x1bc ./Core/Src/main.o
+ .debug_macro   0x00015011       0x34 ./Core/Src/main.o
+ .debug_macro   0x00015045       0x3c ./Core/Src/main.o
+ .debug_macro   0x00015081       0x57 ./Core/Src/main.o
+ .debug_macro   0x000150d8       0x87 ./Core/Src/main.o
+ .debug_macro   0x0001515f      0x240 ./Core/Src/main.o
+ .debug_macro   0x0001539f      0x287 ./Core/Src/main.o
+ .debug_macro   0x00015626      0x140 ./Core/Src/main.o
+ .debug_macro   0x00015766      0x8ed ./Core/Src/main.o
+ .debug_macro   0x00016053       0x83 ./Core/Src/main.o
+ .debug_macro   0x000160d6       0xa6 ./Core/Src/main.o
+ .debug_macro   0x0001617c       0x22 ./Core/Src/main.o
+ .debug_macro   0x0001619e       0x52 ./Core/Src/main.o
+ .debug_macro   0x000161f0       0x3a ./Core/Src/main.o
+ .debug_macro   0x0001622a       0x34 ./Core/Src/main.o
+ .debug_macro   0x0001625e       0x2e ./Core/Src/main.o
+ .debug_macro   0x0001628c       0x34 ./Core/Src/main.o
+ .debug_macro   0x000162c0       0xa0 ./Core/Src/main.o
+ .debug_macro   0x00016360       0x22 ./Core/Src/main.o
+ .debug_macro   0x00016382       0xca ./Core/Src/main.o
+ .debug_macro   0x0001644c      0x1ad ./Core/Src/stm32f1xx_hal_msp.o
+ .debug_macro   0x000165f9      0x1b7 ./Core/Src/stm32f1xx_it.o
+ .debug_macro   0x000167b0      0x1a3 ./Core/Src/system_stm32f1xx.o
+ .debug_macro   0x00016953      0x1c7 ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.o
+ .debug_macro   0x00016b1a      0x1a3 ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.o
+ .debug_macro   0x00016cbd      0x20e ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.o
+ .debug_macro   0x00016ecb      0x1f1 ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.o
+ .debug_macro   0x000170bc      0x1b5 ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.o
+ .debug_macro   0x00017271      0x1a4 ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.o
+ .debug_macro   0x00017415      0x1a3 ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.o
+ .debug_macro   0x000175b8      0x29a ./Libraries/Application/Src/Controller/AlarmCtrl.o
+ .debug_macro   0x00017852      0x29a ./Libraries/Application/Src/Controller/FlashCtrl.o
+ .debug_macro   0x00017aec      0x2a4 ./Libraries/Application/Src/Controller/IdlingCtrl.o
+ .debug_macro   0x00017d90      0x242 ./Libraries/Application/Src/Controller/MenuCtrl.o
+ .debug_macro   0x00017fd2      0x566 ./Libraries/Application/Src/Controller/StateCtrl.o
+ .debug_macro   0x00018538      0x1f4 ./Libraries/Application/Src/ScreenUtilities.o
+ .debug_macro   0x0001872c      0x205 ./Libraries/Application/Src/View/AlarmView.o
+ .debug_macro   0x00018931      0x201 ./Libraries/Application/Src/View/FlashView.o
+ .debug_macro   0x00018b32      0x215 ./Libraries/Application/Src/View/GeneralDisplay.o
+ .debug_macro   0x00018d47      0x20b ./Libraries/Application/Src/View/IdlingView.o
+ .debug_macro   0x00018f52      0x202 ./Libraries/Application/Src/View/MenuView.o
+ .debug_macro   0x00019154      0x1b7 ./Libraries/Firmware/Src/Beep_pwm.o
+ .debug_macro   0x0001930b      0x1ba ./Libraries/Firmware/Src/Button_gpio.o
+ .debug_macro   0x000194c5      0x1ba ./Libraries/Firmware/Src/Led_gpio.o
+ .debug_macro   0x0001967f      0x1b6 ./Libraries/Firmware/Src/Oled_sh1106_i2c.o
+ .debug_macro   0x00019835      0x1bf ./Libraries/Firmware/Src/Rtc_ds1307_i2c.o
 
-.debug_line     0x00000000    0x1593e
- .debug_line    0x00000000      0xaf4 ./Core/Src/main.o
- .debug_line    0x00000af4      0x7c9 ./Core/Src/stm32f1xx_hal_msp.o
- .debug_line    0x000012bd      0x7d2 ./Core/Src/stm32f1xx_it.o
- .debug_line    0x00001a8f      0x776 ./Core/Src/system_stm32f1xx.o
- .debug_line    0x00002205       0x78 ./Core/Startup/startup_stm32f103c8tx.o
- .debug_line    0x0000227d      0x9a3 ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.o
- .debug_line    0x00002c20      0xb8f ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.o
- .debug_line    0x000037af      0xa3c ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.o
- .debug_line    0x000041eb     0x3c40 ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.o
- .debug_line    0x00007e2b      0xdac ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.o
- .debug_line    0x00008bd7     0x34c8 ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.o
- .debug_line    0x0000c09f     0x18f2 ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.o
- .debug_line    0x0000d991      0xd3a ./Libraries/Application/Src/Controller/AlarmCtrl.o
- .debug_line    0x0000e6cb      0x860 ./Libraries/Application/Src/Controller/IdlingCtrl.o
- .debug_line    0x0000ef2b      0x85c ./Libraries/Application/Src/Controller/MenuCtrl.o
- .debug_line    0x0000f787      0x9a7 ./Libraries/Application/Src/Controller/StateCtrl.o
- .debug_line    0x0001012e      0xae3 ./Libraries/Application/Src/ScreenUtilities.o
- .debug_line    0x00010c11      0x962 ./Libraries/Application/Src/View/AlarmView.o
- .debug_line    0x00011573      0x918 ./Libraries/Application/Src/View/GeneralDisplay.o
- .debug_line    0x00011e8b      0x8f2 ./Libraries/Application/Src/View/IdlingView.o
- .debug_line    0x0001277d      0x8cb ./Libraries/Application/Src/View/MenuView.o
- .debug_line    0x00013048      0x791 ./Libraries/Firmware/Src/Beep_pwm.o
- .debug_line    0x000137d9      0x88b ./Libraries/Firmware/Src/Button_gpio.o
- .debug_line    0x00014064      0x783 ./Libraries/Firmware/Src/Led_gpio.o
- .debug_line    0x000147e7      0x89c ./Libraries/Firmware/Src/Oled_sh1106_i2c.o
- .debug_line    0x00015083      0x8bb ./Libraries/Firmware/Src/Rtc_ds1307_i2c.o
+.debug_line     0x00000000    0x16be6
+ .debug_line    0x00000000      0xb12 ./Core/Src/main.o
+ .debug_line    0x00000b12      0x7c9 ./Core/Src/stm32f1xx_hal_msp.o
+ .debug_line    0x000012db      0x7d2 ./Core/Src/stm32f1xx_it.o
+ .debug_line    0x00001aad      0x776 ./Core/Src/system_stm32f1xx.o
+ .debug_line    0x00002223       0x78 ./Core/Startup/startup_stm32f103c8tx.o
+ .debug_line    0x0000229b      0x9a3 ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.o
+ .debug_line    0x00002c3e      0xb8f ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.o
+ .debug_line    0x000037cd      0xa3c ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.o
+ .debug_line    0x00004209     0x3c40 ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.o
+ .debug_line    0x00007e49      0xdac ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.o
+ .debug_line    0x00008bf5     0x34c8 ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.o
+ .debug_line    0x0000c0bd     0x18f2 ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.o
+ .debug_line    0x0000d9af      0xd3a ./Libraries/Application/Src/Controller/AlarmCtrl.o
+ .debug_line    0x0000e6e9      0x955 ./Libraries/Application/Src/Controller/FlashCtrl.o
+ .debug_line    0x0000f03e      0x89f ./Libraries/Application/Src/Controller/IdlingCtrl.o
+ .debug_line    0x0000f8dd      0x85c ./Libraries/Application/Src/Controller/MenuCtrl.o
+ .debug_line    0x00010139      0x9df ./Libraries/Application/Src/Controller/StateCtrl.o
+ .debug_line    0x00010b18      0xae3 ./Libraries/Application/Src/ScreenUtilities.o
+ .debug_line    0x000115fb      0x962 ./Libraries/Application/Src/View/AlarmView.o
+ .debug_line    0x00011f5d      0x8be ./Libraries/Application/Src/View/FlashView.o
+ .debug_line    0x0001281b      0x918 ./Libraries/Application/Src/View/GeneralDisplay.o
+ .debug_line    0x00013133      0x8f2 ./Libraries/Application/Src/View/IdlingView.o
+ .debug_line    0x00013a25      0x8cb ./Libraries/Application/Src/View/MenuView.o
+ .debug_line    0x000142f0      0x791 ./Libraries/Firmware/Src/Beep_pwm.o
+ .debug_line    0x00014a81      0x88b ./Libraries/Firmware/Src/Button_gpio.o
+ .debug_line    0x0001530c      0x783 ./Libraries/Firmware/Src/Led_gpio.o
+ .debug_line    0x00015a8f      0x89c ./Libraries/Firmware/Src/Oled_sh1106_i2c.o
+ .debug_line    0x0001632b      0x8bb ./Libraries/Firmware/Src/Rtc_ds1307_i2c.o
 
-.debug_str      0x00000000    0x878fe
- .debug_str     0x00000000    0x843ab ./Core/Src/main.o
-                              0x847f4 (size before relaxing)
- .debug_str     0x000843ab      0x371 ./Core/Src/stm32f1xx_hal_msp.o
+.debug_str      0x00000000    0x879eb
+ .debug_str     0x00000000    0x843bb ./Core/Src/main.o
+                              0x847f8 (size before relaxing)
+ .debug_str     0x000843bb      0x371 ./Core/Src/stm32f1xx_hal_msp.o
                               0x83ed3 (size before relaxing)
- .debug_str     0x0008471c       0xdc ./Core/Src/stm32f1xx_it.o
+ .debug_str     0x0008472c       0xdc ./Core/Src/stm32f1xx_it.o
                               0x83891 (size before relaxing)
- .debug_str     0x000847f8       0x7e ./Core/Src/system_stm32f1xx.o
+ .debug_str     0x00084808       0x7e ./Core/Src/system_stm32f1xx.o
                               0x833b3 (size before relaxing)
- .debug_str     0x00084876       0x44 ./Core/Startup/startup_stm32f103c8tx.o
+ .debug_str     0x00084886       0x44 ./Core/Startup/startup_stm32f103c8tx.o
                                  0x78 (size before relaxing)
- .debug_str     0x000848ba      0x38e ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.o
+ .debug_str     0x000848ca      0x38e ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.o
                               0x83ae6 (size before relaxing)
- .debug_str     0x00084c48      0x294 ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.o
+ .debug_str     0x00084c58      0x294 ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.o
                               0x83a32 (size before relaxing)
- .debug_str     0x00084edc      0x2e1 ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.o
+ .debug_str     0x00084eec      0x2e1 ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.o
                               0x83739 (size before relaxing)
- .debug_str     0x000851bd      0xbd5 ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.o
+ .debug_str     0x000851cd      0xbd5 ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.o
                               0x8447a (size before relaxing)
- .debug_str     0x00085d92      0x209 ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.o
+ .debug_str     0x00085da2      0x209 ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.o
                               0x837e2 (size before relaxing)
- .debug_str     0x00085f9b      0xd32 ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.o
+ .debug_str     0x00085fab      0xd32 ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.o
                               0x847e4 (size before relaxing)
- .debug_str     0x00086ccd      0x493 ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.o
+ .debug_str     0x00086cdd      0x493 ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.o
                               0x83ff0 (size before relaxing)
- .debug_str     0x00087160      0x15a ./Libraries/Application/Src/Controller/AlarmCtrl.o
-                              0x839d2 (size before relaxing)
- .debug_str     0x000872ba       0x76 ./Libraries/Application/Src/Controller/IdlingCtrl.o
-                              0x837bc (size before relaxing)
- .debug_str     0x00087330       0x66 ./Libraries/Application/Src/Controller/MenuCtrl.o
+ .debug_str     0x00087170      0x15a ./Libraries/Application/Src/Controller/AlarmCtrl.o
+                              0x839c8 (size before relaxing)
+ .debug_str     0x000872ca       0xb9 ./Libraries/Application/Src/Controller/FlashCtrl.o
+                              0x8387a (size before relaxing)
+ .debug_str     0x00087383       0x76 ./Libraries/Application/Src/Controller/IdlingCtrl.o
+                              0x838a6 (size before relaxing)
+ .debug_str     0x000873f9       0x66 ./Libraries/Application/Src/Controller/MenuCtrl.o
                               0x83796 (size before relaxing)
- .debug_str     0x00087396       0x9d ./Libraries/Application/Src/Controller/StateCtrl.o
-                              0x83cc7 (size before relaxing)
- .debug_str     0x00087433       0xd8 ./Libraries/Application/Src/ScreenUtilities.o
+ .debug_str     0x0008745f       0x93 ./Libraries/Application/Src/Controller/StateCtrl.o
+                              0x83ce7 (size before relaxing)
+ .debug_str     0x000874f2       0xd8 ./Libraries/Application/Src/ScreenUtilities.o
                               0x83775 (size before relaxing)
- .debug_str     0x0008750b       0x2e ./Libraries/Application/Src/View/AlarmView.o
+ .debug_str     0x000875ca       0x2e ./Libraries/Application/Src/View/AlarmView.o
                               0x83810 (size before relaxing)
- .debug_str     0x00087539       0x4b ./Libraries/Application/Src/View/GeneralDisplay.o
-                              0x837fe (size before relaxing)
- .debug_str     0x00087584       0x2f ./Libraries/Application/Src/View/IdlingView.o
+ .debug_str     0x000875f8       0x2e ./Libraries/Application/Src/View/FlashView.o
+                              0x83720 (size before relaxing)
+ .debug_str     0x00087626       0x4b ./Libraries/Application/Src/View/GeneralDisplay.o
+                              0x83818 (size before relaxing)
+ .debug_str     0x00087671       0x2f ./Libraries/Application/Src/View/IdlingView.o
                               0x83780 (size before relaxing)
- .debug_str     0x000875b3       0x2d ./Libraries/Application/Src/View/MenuView.o
+ .debug_str     0x000876a0       0x2d ./Libraries/Application/Src/View/MenuView.o
                               0x83745 (size before relaxing)
- .debug_str     0x000875e0       0x76 ./Libraries/Firmware/Src/Beep_pwm.o
+ .debug_str     0x000876cd       0x76 ./Libraries/Firmware/Src/Beep_pwm.o
                               0x838cf (size before relaxing)
- .debug_str     0x00087656       0xba ./Libraries/Firmware/Src/Button_gpio.o
+ .debug_str     0x00087743       0xba ./Libraries/Firmware/Src/Button_gpio.o
                               0x834cd (size before relaxing)
- .debug_str     0x00087710       0x87 ./Libraries/Firmware/Src/Led_gpio.o
+ .debug_str     0x000877fd       0x87 ./Libraries/Firmware/Src/Led_gpio.o
                               0x83445 (size before relaxing)
- .debug_str     0x00087797       0xa2 ./Libraries/Firmware/Src/Oled_sh1106_i2c.o
+ .debug_str     0x00087884       0xa2 ./Libraries/Firmware/Src/Oled_sh1106_i2c.o
                               0x83a61 (size before relaxing)
- .debug_str     0x00087839       0xc5 ./Libraries/Firmware/Src/Rtc_ds1307_i2c.o
+ .debug_str     0x00087926       0xc5 ./Libraries/Firmware/Src/Rtc_ds1307_i2c.o
                               0x83a43 (size before relaxing)
 
 .comment        0x00000000       0x43
@@ -5222,11 +5470,13 @@ LOAD C:/Program Files/STM32CubeIDE_1.17.0/STM32CubeIDE/plugins/com.st.stm32cube.
  .comment       0x00000043       0x44 ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.o
  .comment       0x00000043       0x44 ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.o
  .comment       0x00000043       0x44 ./Libraries/Application/Src/Controller/AlarmCtrl.o
+ .comment       0x00000043       0x44 ./Libraries/Application/Src/Controller/FlashCtrl.o
  .comment       0x00000043       0x44 ./Libraries/Application/Src/Controller/IdlingCtrl.o
  .comment       0x00000043       0x44 ./Libraries/Application/Src/Controller/MenuCtrl.o
  .comment       0x00000043       0x44 ./Libraries/Application/Src/Controller/StateCtrl.o
  .comment       0x00000043       0x44 ./Libraries/Application/Src/ScreenUtilities.o
  .comment       0x00000043       0x44 ./Libraries/Application/Src/View/AlarmView.o
+ .comment       0x00000043       0x44 ./Libraries/Application/Src/View/FlashView.o
  .comment       0x00000043       0x44 ./Libraries/Application/Src/View/GeneralDisplay.o
  .comment       0x00000043       0x44 ./Libraries/Application/Src/View/IdlingView.o
  .comment       0x00000043       0x44 ./Libraries/Application/Src/View/MenuView.o
@@ -5236,7 +5486,7 @@ LOAD C:/Program Files/STM32CubeIDE_1.17.0/STM32CubeIDE/plugins/com.st.stm32cube.
  .comment       0x00000043       0x44 ./Libraries/Firmware/Src/Oled_sh1106_i2c.o
  .comment       0x00000043       0x44 ./Libraries/Firmware/Src/Rtc_ds1307_i2c.o
 
-.debug_frame    0x00000000     0x3a64
+.debug_frame    0x00000000     0x3b50
  .debug_frame   0x00000000      0x11c ./Core/Src/main.o
  .debug_frame   0x0000011c       0xec ./Core/Src/stm32f1xx_hal_msp.o
  .debug_frame   0x00000208      0x120 ./Core/Src/stm32f1xx_it.o
@@ -5249,21 +5499,23 @@ LOAD C:/Program Files/STM32CubeIDE_1.17.0/STM32CubeIDE/plugins/com.st.stm32cube.
  .debug_frame   0x00001ac4     0x11b8 ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.o
  .debug_frame   0x00002c7c      0x638 ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.o
  .debug_frame   0x000032b4       0x84 ./Libraries/Application/Src/Controller/AlarmCtrl.o
- .debug_frame   0x00003338       0x34 ./Libraries/Application/Src/Controller/IdlingCtrl.o
- .debug_frame   0x0000336c       0x34 ./Libraries/Application/Src/Controller/MenuCtrl.o
- .debug_frame   0x000033a0       0x48 ./Libraries/Application/Src/Controller/StateCtrl.o
- .debug_frame   0x000033e8      0x1cc ./Libraries/Application/Src/ScreenUtilities.o
- .debug_frame   0x000035b4       0x38 ./Libraries/Application/Src/View/AlarmView.o
- .debug_frame   0x000035ec       0x58 ./Libraries/Application/Src/View/GeneralDisplay.o
- .debug_frame   0x00003644       0x38 ./Libraries/Application/Src/View/IdlingView.o
- .debug_frame   0x0000367c       0x5c ./Libraries/Application/Src/View/MenuView.o
- .debug_frame   0x000036d8       0x5c ./Libraries/Firmware/Src/Beep_pwm.o
- .debug_frame   0x00003734       0xa4 ./Libraries/Firmware/Src/Button_gpio.o
- .debug_frame   0x000037d8       0x80 ./Libraries/Firmware/Src/Led_gpio.o
- .debug_frame   0x00003858       0xa8 ./Libraries/Firmware/Src/Oled_sh1106_i2c.o
- .debug_frame   0x00003900      0x118 ./Libraries/Firmware/Src/Rtc_ds1307_i2c.o
- .debug_frame   0x00003a18       0x20 C:/Program Files/STM32CubeIDE_1.17.0/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.win32_1.1.0.202410251130/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc_nano.a(libc_a-memset.o)
- .debug_frame   0x00003a38       0x2c C:/Program Files/STM32CubeIDE_1.17.0/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.win32_1.1.0.202410251130/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc_nano.a(libc_a-init.o)
+ .debug_frame   0x00003338       0x5c ./Libraries/Application/Src/Controller/FlashCtrl.o
+ .debug_frame   0x00003394       0x34 ./Libraries/Application/Src/Controller/IdlingCtrl.o
+ .debug_frame   0x000033c8       0x34 ./Libraries/Application/Src/Controller/MenuCtrl.o
+ .debug_frame   0x000033fc       0x48 ./Libraries/Application/Src/Controller/StateCtrl.o
+ .debug_frame   0x00003444      0x1cc ./Libraries/Application/Src/ScreenUtilities.o
+ .debug_frame   0x00003610       0x38 ./Libraries/Application/Src/View/AlarmView.o
+ .debug_frame   0x00003648       0x90 ./Libraries/Application/Src/View/FlashView.o
+ .debug_frame   0x000036d8       0x58 ./Libraries/Application/Src/View/GeneralDisplay.o
+ .debug_frame   0x00003730       0x38 ./Libraries/Application/Src/View/IdlingView.o
+ .debug_frame   0x00003768       0x5c ./Libraries/Application/Src/View/MenuView.o
+ .debug_frame   0x000037c4       0x5c ./Libraries/Firmware/Src/Beep_pwm.o
+ .debug_frame   0x00003820       0xa4 ./Libraries/Firmware/Src/Button_gpio.o
+ .debug_frame   0x000038c4       0x80 ./Libraries/Firmware/Src/Led_gpio.o
+ .debug_frame   0x00003944       0xa8 ./Libraries/Firmware/Src/Oled_sh1106_i2c.o
+ .debug_frame   0x000039ec      0x118 ./Libraries/Firmware/Src/Rtc_ds1307_i2c.o
+ .debug_frame   0x00003b04       0x20 C:/Program Files/STM32CubeIDE_1.17.0/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.win32_1.1.0.202410251130/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc_nano.a(libc_a-memset.o)
+ .debug_frame   0x00003b24       0x2c C:/Program Files/STM32CubeIDE_1.17.0/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.win32_1.1.0.202410251130/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc_nano.a(libc_a-init.o)
 
 .debug_line_str
                 0x00000000       0x5c

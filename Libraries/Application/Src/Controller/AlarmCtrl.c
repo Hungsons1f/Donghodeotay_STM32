@@ -77,7 +77,7 @@ uint8_t AlarmState(volatile stAlarm astAlarm[5], stButton *btnPush, stButton *bt
 			if (btnPush->rising) {
 				if (Alarmline == AlarmBack) {
 					Alarmline = AlarmLine1;
-					return BackToMenuLevel;
+					return BackToMenu;
 				}
 				else AlarmPos = APEnable;
 			}
@@ -150,5 +150,5 @@ uint8_t AlarmState(volatile stAlarm astAlarm[5], stButton *btnPush, stButton *bt
 			if (btnPush->rising) AlarmPos = APNull;
 			break;
 	}
-	return StayInAlarmFunc;
+	return StayInFunc;
 }

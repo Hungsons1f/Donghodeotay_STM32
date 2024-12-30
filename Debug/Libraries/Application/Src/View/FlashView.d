@@ -1,6 +1,6 @@
-Libraries/Application/Src/Controller/StateCtrl.o: \
- ../Libraries/Application/Src/Controller/StateCtrl.c \
- ../Libraries/Application/Inc/StateCtrl.h \
+Libraries/Application/Src/View/FlashView.o: \
+ ../Libraries/Application/Src/View/FlashView.c \
+ ../Libraries/Application/Inc/FlashView.h \
  ../Libraries/Application/Inc/TypeStruct.h ../Core/Inc/main.h \
  ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal.h \
  ../Core/Inc/stm32f1xx_hal_conf.h \
@@ -36,21 +36,8 @@ Libraries/Application/Src/Controller/StateCtrl.o: \
  ../Libraries/Application/Inc/..\Inc\TypeStruct.h \
  ../Libraries/Firmware/Inc/Button_gpio.h \
  ../Libraries/Application/Inc/TypeStruct.h \
- ../Libraries/Application/Img/fonts.h \
- ../Libraries/Application/Inc/AlarmCtrl.h \
- ../Libraries/Application/Inc/GeneralDisplay.h \
- ../Libraries/Application/Img/GeneralDisplayIcon.h \
- ../Libraries/Application/Inc/GeneralUtilities.h \
- ../Libraries/Application/Inc/AlarmView.h \
- ../Libraries/Application/Inc/IdlingCtrl.h \
- ../Libraries/Application/Inc/IdlingView.h \
- ../Libraries/Application/Img/Number.h \
- ../Libraries/Application/Inc/MenuCtrl.h \
- ../Libraries/Application/Inc/MenuView.h \
- ../Libraries/Application/Img/MenuViewIcon.h \
- ../Libraries/Application/Inc/FlashCtrl.h \
- ../Libraries/Application/Inc/FlashView.h
-../Libraries/Application/Inc/StateCtrl.h:
+ ../Libraries/Application/Img/fonts.h
+../Libraries/Application/Inc/FlashView.h:
 ../Libraries/Application/Inc/TypeStruct.h:
 ../Core/Inc/main.h:
 ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal.h:
@@ -88,16 +75,3 @@ Libraries/Application/Src/Controller/StateCtrl.o: \
 ../Libraries/Firmware/Inc/Button_gpio.h:
 ../Libraries/Application/Inc/TypeStruct.h:
 ../Libraries/Application/Img/fonts.h:
-../Libraries/Application/Inc/AlarmCtrl.h:
-../Libraries/Application/Inc/GeneralDisplay.h:
-../Libraries/Application/Img/GeneralDisplayIcon.h:
-../Libraries/Application/Inc/GeneralUtilities.h:
-../Libraries/Application/Inc/AlarmView.h:
-../Libraries/Application/Inc/IdlingCtrl.h:
-../Libraries/Application/Inc/IdlingView.h:
-../Libraries/Application/Img/Number.h:
-../Libraries/Application/Inc/MenuCtrl.h:
-../Libraries/Application/Inc/MenuView.h:
-../Libraries/Application/Img/MenuViewIcon.h:
-../Libraries/Application/Inc/FlashCtrl.h:
-../Libraries/Application/Inc/FlashView.h:

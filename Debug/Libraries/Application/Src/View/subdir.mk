@@ -7,6 +7,7 @@
 C_SRCS += \
 ../Libraries/Application/Src/View/AlarmView.c \
 ../Libraries/Application/Src/View/CounterView.c \
+../Libraries/Application/Src/View/FlashView.c \
 ../Libraries/Application/Src/View/GeneralDisplay.c \
 ../Libraries/Application/Src/View/IdlingView.c \
 ../Libraries/Application/Src/View/MenuView.c 
@@ -14,6 +15,7 @@ C_SRCS += \
 OBJS += \
 ./Libraries/Application/Src/View/AlarmView.o \
 ./Libraries/Application/Src/View/CounterView.o \
+./Libraries/Application/Src/View/FlashView.o \
 ./Libraries/Application/Src/View/GeneralDisplay.o \
 ./Libraries/Application/Src/View/IdlingView.o \
 ./Libraries/Application/Src/View/MenuView.o 
@@ -21,6 +23,7 @@ OBJS += \
 C_DEPS += \
 ./Libraries/Application/Src/View/AlarmView.d \
 ./Libraries/Application/Src/View/CounterView.d \
+./Libraries/Application/Src/View/FlashView.d \
 ./Libraries/Application/Src/View/GeneralDisplay.d \
 ./Libraries/Application/Src/View/IdlingView.d \
 ./Libraries/Application/Src/View/MenuView.d 
@@ -33,7 +36,7 @@ Libraries/Application/Src/View/%.o Libraries/Application/Src/View/%.su Libraries
 clean: clean-Libraries-2f-Application-2f-Src-2f-View
 
 clean-Libraries-2f-Application-2f-Src-2f-View:
-	-$(RM) ./Libraries/Application/Src/View/AlarmView.cyclo ./Libraries/Application/Src/View/AlarmView.d ./Libraries/Application/Src/View/AlarmView.o ./Libraries/Application/Src/View/AlarmView.su ./Libraries/Application/Src/View/CounterView.cyclo ./Libraries/Application/Src/View/CounterView.d ./Libraries/Application/Src/View/CounterView.o ./Libraries/Application/Src/View/CounterView.su ./Libraries/Application/Src/View/GeneralDisplay.cyclo ./Libraries/Application/Src/View/GeneralDisplay.d ./Libraries/Application/Src/View/GeneralDisplay.o ./Libraries/Application/Src/View/GeneralDisplay.su ./Libraries/Application/Src/View/IdlingView.cyclo ./Libraries/Application/Src/View/IdlingView.d ./Libraries/Application/Src/View/IdlingView.o ./Libraries/Application/Src/View/IdlingView.su ./Libraries/Application/Src/View/MenuView.cyclo ./Libraries/Application/Src/View/MenuView.d ./Libraries/Application/Src/View/MenuView.o ./Libraries/Application/Src/View/MenuView.su
+	-$(RM) ./Libraries/Application/Src/View/AlarmView.cyclo ./Libraries/Application/Src/View/AlarmView.d ./Libraries/Application/Src/View/AlarmView.o ./Libraries/Application/Src/View/AlarmView.su ./Libraries/Application/Src/View/CounterView.cyclo ./Libraries/Application/Src/View/CounterView.d ./Libraries/Application/Src/View/CounterView.o ./Libraries/Application/Src/View/CounterView.su ./Libraries/Application/Src/View/FlashView.cyclo ./Libraries/Application/Src/View/FlashView.d ./Libraries/Application/Src/View/FlashView.o ./Libraries/Application/Src/View/FlashView.su ./Libraries/Application/Src/View/GeneralDisplay.cyclo ./Libraries/Application/Src/View/GeneralDisplay.d ./Libraries/Application/Src/View/GeneralDisplay.o ./Libraries/Application/Src/View/GeneralDisplay.su ./Libraries/Application/Src/View/IdlingView.cyclo ./Libraries/Application/Src/View/IdlingView.d ./Libraries/Application/Src/View/IdlingView.o ./Libraries/Application/Src/View/IdlingView.su ./Libraries/Application/Src/View/MenuView.cyclo ./Libraries/Application/Src/View/MenuView.d ./Libraries/Application/Src/View/MenuView.o ./Libraries/Application/Src/View/MenuView.su
 
 .PHONY: clean-Libraries-2f-Application-2f-Src-2f-View
 

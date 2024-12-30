@@ -37,6 +37,9 @@ Libraries/Application/Src/Controller/IdlingCtrl.o: \
  ../Libraries/Firmware/Inc/Button_gpio.h \
  ../Libraries/Application/Inc/TypeStruct.h \
  ../Libraries/Application/Img/fonts.h \
+ ../Libraries/Application/Inc/GeneralDisplay.h \
+ ../Libraries/Application/Img/GeneralDisplayIcon.h \
+ ../Libraries/Application/Inc/GeneralUtilities.h \
  ../Libraries/Application/Inc/IdlingView.h \
  ../Libraries/Application/Img/Number.h
 ../Libraries/Application/Inc/IdlingCtrl.h:
@@ -77,5 +80,8 @@ Libraries/Application/Src/Controller/IdlingCtrl.o: \
 ../Libraries/Firmware/Inc/Button_gpio.h:
 ../Libraries/Application/Inc/TypeStruct.h:
 ../Libraries/Application/Img/fonts.h:
+../Libraries/Application/Inc/GeneralDisplay.h:
+../Libraries/Application/Img/GeneralDisplayIcon.h:
+../Libraries/Application/Inc/GeneralUtilities.h:
 ../Libraries/Application/Inc/IdlingView.h:
 ../Libraries/Application/Img/Number.h:

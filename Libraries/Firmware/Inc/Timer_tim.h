@@ -1,21 +1,21 @@
 /**
   ******************************************************************************
-  * @file    IdlingCtrl.h
+  * @file    Timer_tim.c
   * @author  Nguyen Hung Son
   * @version V1.0
-  * @date    21/12/2024
-  * @brief   Idling controller function
+  * @date    30/12/2024
+  * @brief   Control Timers
    ******************************************************************************
   */
 
 
 /* Includes ------------------------------------------------------------------*/
+
+/* Includes ------------------------------------------------------------------*/
+#include "main.h"
 #include "TypeStruct.h"
-#include "ScreenUtilites.h"
-#include "GeneralDisplay.h"
-#include "IdlingView.h"
 
 /* Private defines -----------------------------------------------------------*/
 
-/* Private Function Prototypes -----------------------------------------------*/
-void IdlingStateAction (uint8_t *NumberOfIcon, volatile stDispTime *Realtime );
+
+/* Private function prototypes -----------------------------------------------*/

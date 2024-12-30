@@ -81,7 +81,10 @@ void MainStateMachine () {
 					break;
 
 				case FlashFunc:
-					//Flashstate
+					if (!FlashState(&btnPush, &btnUp, &btnDown)) {
+						uStateLevel = MenuLevel;
+						SolidFill(0x00);
+					}
 					break;
 
 				case CounterFunc:
@@ -115,7 +118,8 @@ void MainStateAction () {
 				case AlarmFunc:
 					AlarmStateAction(stAlarm1, &uNumIcon);
 					break;
-				default:
+				case FlashFunc:
+					FlastStateAction(&uNumIcon);
 					break;
 			}
 

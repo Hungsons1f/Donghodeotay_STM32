@@ -49,6 +49,8 @@ Core/Src/main.o: ../Core/Src/main.c ../Core/Inc/main.h \
  ../Libraries/Application/Inc/IdlingCtrl.h \
  ../Libraries/Application/Inc/MenuCtrl.h \
  ../Libraries/Application/Inc/StateCtrl.h \
+ ../Libraries/Application/Inc/FlashCtrl.h \
+ ../Libraries/Application/Inc/FlashView.h \
  ../Libraries/Application/Img/LMC.h
 ../Core/Inc/main.h:
 ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal.h:
@@ -101,4 +103,6 @@ Core/Src/main.o: ../Core/Src/main.c ../Core/Inc/main.h \
 ../Libraries/Application/Inc/IdlingCtrl.h:
 ../Libraries/Application/Inc/MenuCtrl.h:
 ../Libraries/Application/Inc/StateCtrl.h:
+../Libraries/Application/Inc/FlashCtrl.h:
+../Libraries/Application/Inc/FlashView.h:
 ../Libraries/Application/Img/LMC.h:

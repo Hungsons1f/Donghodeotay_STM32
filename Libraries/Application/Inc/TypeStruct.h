@@ -65,9 +65,6 @@ typedef struct
 
 #endif
 
-#ifndef YESNOENUM_H_
-#define YESNOENUM_H_
-
 #ifndef BUTTONSTRUCT_H_
 #define BUTTONSTRUCT_H_
 
@@ -80,6 +77,22 @@ typedef struct
 }stButton;
 
 #endif
+
+#ifndef TIMERSTRUCT_H_
+#define TIMERSTRUCT_H_
+
+typedef struct
+{
+	uint8_t enable;
+	uint8_t value;
+	uint8_t tick;
+	uint8_t preset;
+}stTimer;
+
+#endif
+
+#ifndef YESNOENUM_H_
+#define YESNOENUM_H_
 
 typedef enum
 {

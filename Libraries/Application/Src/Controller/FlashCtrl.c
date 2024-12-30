@@ -13,32 +13,78 @@
 #include "FlashCtrl.h"
 
 /* Global Variables ----------------------------------------------------------*/
+uint8_t Flashline = FlashLine1;
+uint8_t FlashOn;
 
 /* Private functions ---------------------------------------------------------*/
-uint8_t FlashState() {
-	static uint8_t Flashline = FlashLine1;
-	FlashFuncState(&Flashline);
-	if (Down)
-	{
-        Down = 0;
-		  Flashline++;
-		  if (Flashline > FlashBack)	Flashline = FlashLine1;
+uint8_t FlashState(stButton *btnPush, stButton *btnUp, stButton *btnDown) {
+	switch (FlashOn) {
+		case NO:
+			if (btnDown->rising) {
+				Flashline++;
+				if (Flashline > FlashBack)	Flashline = FlashLine1;
+			}
+			if (btnUp->rising) {
+		        Flashline--;
+				if (Flashline < FlashLine1)	Flashline = FlashBack;
+			}
+			if (btnPush->rising) {
+				if (Flashline == FlashBack) {
+					Flashline = FlashLine1;
+					return BackToMenu;
+				}
+				FlashOn = YES;
+			}
+			break;
+		case YES:
+			switch (Flashline) {
+				case FlashLine1:
+					if (btnPush->rising) {
+						FlashOn = NO;
+					}
+					break;
+				case FlashLine2:
+					if (btnPush->rising) {
+						FlashOn = NO;
+					}
+					break;
+				case FlashLine3:
+					if (btnPush->rising) {
+						FlashOn = NO;
+					}
+					break;
+				default:
+					break;
+			}
+			break;
 	}
-	if (Up)
-	{
-		Up = 0;
-        Flashline--;
-		  if (Flashline < FlashLine1)	Flashline = FlashBack;
-	}
+	return StayInFunc;
+}
 
-	if (Push)
-	{
-		Push = 0;
-		if (Flashline == FlashBack)
-		{
-			StateLevel = MenuLevel;
-			Flashline = FlashLine1;
-			SolidFill(0x00);
-		}
+void FlastStateAction (uint8_t *numOfIcon) {
+	static uint8_t lastState;
+	switch (FlashOn) {
+		case NO:
+			if (lastState == YES) SolidFill(0x00);
+
+			DispFlashLine(&Flashline);
+			DispTopRightIcon(numOfIcon);
+			lastState = NO;
+			break;
+		case YES:
+			switch (Flashline) {
+				case FlashLine1:
+					FlashModeLight();
+					break;
+				case FlashLine2:
+					FlashModeBlink();
+					break;
+				case FlashLine3:
+					FlashModeSOS();
+					break;
+			}
+			lastState = YES;
 	}
 }
+
+

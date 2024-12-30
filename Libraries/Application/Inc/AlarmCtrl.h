@@ -16,9 +16,6 @@
 #include "AlarmView.h"
 
 /* Private Defines -----------------------------------------------------------*/
-#define BackToMenuLevel					0
-#define StayInAlarmFunc					1
-
 #ifndef ALARMFUNC_H_
 #define ALARMFUNC_H_
 /* Alarm Date-----*/

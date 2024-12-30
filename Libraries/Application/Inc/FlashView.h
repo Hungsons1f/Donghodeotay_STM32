@@ -1,10 +1,10 @@
 /**
   ******************************************************************************
-  * @file    IdlingCtrl.h
+  * @file    FlashView.h
   * @author  Nguyen Hung Son
   * @version V1.0
-  * @date    21/12/2024
-  * @brief   Idling controller function
+  * @date    29/12/2024
+  * @brief   Flash View function
    ******************************************************************************
   */
 
@@ -12,10 +12,21 @@
 /* Includes ------------------------------------------------------------------*/
 #include "TypeStruct.h"
 #include "ScreenUtilites.h"
-#include "GeneralDisplay.h"
-#include "IdlingView.h"
 
 /* Private defines -----------------------------------------------------------*/
+/* Flash Lines---------------*/
+#ifndef FLASHFUNC_H_
+#define FLASHFUNC_H_
+
+#define FlashLine1						1
+#define FlashLine2						2
+#define FlashLine3						3
+#define FlashBack						4
+
+#endif
 
 /* Private Function Prototypes -----------------------------------------------*/
-void IdlingStateAction (uint8_t *NumberOfIcon, volatile stDispTime *Realtime );
+void DispFlashLine(uint8_t *FlashLine);
+void FlashModeLight();
+void FlashModeBlink();
+void FlashModeSOS();

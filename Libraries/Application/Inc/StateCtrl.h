@@ -15,6 +15,7 @@
 #include "AlarmCtrl.h"
 #include "IdlingCtrl.h"
 #include "MenuCtrl.h"
+#include "FlashCtrl.h"
 #include "GeneralDisplay.h"
 
 /* Private defines -----------------------------------------------------------*/
@@ -36,12 +37,6 @@
 /* Button Done?---*/
 #define done							0
 #define nyet							1
-
-/* Flash Lines---------------*/
-#define FlashLine1						1
-#define FlashLine2						2
-#define FlashLine3						3
-#define FlashBack						4
 
 /* Counter Lines---------------*/
 #define CounterLine1					1
