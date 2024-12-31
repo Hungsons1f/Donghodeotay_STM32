@@ -117,6 +117,8 @@ int main(void)
   Button_Init(GPIOA, GPIO_PIN_5, GPIOA, GPIO_PIN_6, GPIOA, GPIO_PIN_7);
   HAL_TIM_Base_Start_IT(&htim1);
 
+  MainStateInit();
+
 //  error = DS1307_SetTime(&test);
 
   /* USER CODE END 2 */

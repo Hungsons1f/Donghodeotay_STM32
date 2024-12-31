@@ -65,7 +65,7 @@ void FlastStateAction (uint8_t *numOfIcon) {
 	static uint8_t lastState;
 	switch (FlashOn) {
 		case NO:
-			if (lastState == YES) SolidFill(0x00);
+			if (lastState == YES) FlashReset();
 
 			DispFlashLine(&Flashline);
 			DispTopRightIcon(numOfIcon);
@@ -87,4 +87,6 @@ void FlastStateAction (uint8_t *numOfIcon) {
 	}
 }
 
-
+void FlashCtrlInit () {
+	FlashInit();
+}

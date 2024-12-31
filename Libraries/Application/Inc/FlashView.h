@@ -12,6 +12,7 @@
 /* Includes ------------------------------------------------------------------*/
 #include "TypeStruct.h"
 #include "ScreenUtilites.h"
+#include "FirmwareInclude.h"
 
 /* Private defines -----------------------------------------------------------*/
 /* Flash Lines---------------*/
@@ -25,8 +26,15 @@
 
 #endif
 
+/* Flash Blink state---------------*/
+#define BlinkStateOff					0
+#define BlinkStateOn					1
+#define BlinkStateShortOn				2
+#define BlinkStateShortOff				3
+
 /* Private Function Prototypes -----------------------------------------------*/
 void DispFlashLine(uint8_t *FlashLine);
 void FlashModeLight();
 void FlashModeBlink();
 void FlashModeSOS();
+void FlashReset();

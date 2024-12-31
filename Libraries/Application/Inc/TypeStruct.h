@@ -87,6 +87,7 @@ typedef struct
 	uint8_t value;
 	uint8_t tick;
 	uint8_t preset;
+	uint32_t pointer;
 }stTimer;
 
 #endif
@@ -101,3 +102,10 @@ typedef enum
 }eYesNo;
 
 #endif
+
+typedef unsigned char uint8_t;
+typedef char int8_t;
+typedef unsigned int uint16_t;
+typedef int int16_t;
+typedef unsigned long uint32_t;
+typedef long int32_t;

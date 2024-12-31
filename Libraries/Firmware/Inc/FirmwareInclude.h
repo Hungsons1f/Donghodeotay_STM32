@@ -14,4 +14,5 @@
 #include "Oled_sh1106_i2c.h"
 #include "Rtc_ds1307_i2c.h"
 #include "Button_gpio.h"
+#include "Timer_tim.h"
 #include "TypeStruct.h"

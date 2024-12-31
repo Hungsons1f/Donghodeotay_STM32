@@ -38,6 +38,10 @@ stButton btnPush;
 
 
 /* Private functions ---------------------------------------------------------*/
+void MainStateInit () {
+	FlashCtrlInit();
+}
+
 void MainStateMachine () {
 	switch (uStateLevel) {
 

@@ -19,3 +19,5 @@
 
 
 /* Private function prototypes -----------------------------------------------*/
+void Timer_Append (stTimer *timer);
+void Timer_Exe (uint8_t *tick);

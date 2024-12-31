@@ -13,6 +13,10 @@
 #include "FlashView.h"
 
 /* Global Variables ----------------------------------------------------------*/
+stTimer timBlinking500 = {DISABLE, 0, NO, 50, 0};
+stTimer timBlinking200 = {DISABLE, 0, NO, 50, 0};
+uint8_t uBlinkState = BlinkStateOn;
+uint8_t uSosCount = 0;
 
 /* Private functions ---------------------------------------------------------*/
 void DispFlashLine(uint8_t *FlashLine) {
@@ -59,9 +63,44 @@ void FlashModeLight() {
 }
 
 void FlashModeBlink() {
+	timBlinking500.enable = ENABLE;
+	if (timBlinking500.tick) uBlinkState ^= 0x01;
 
+	switch (uBlinkState) {
+		case BlinkStateOn:
+			SolidFill(0xFF);
+			break;
+		case BlinkStateOff:
+			SolidFill(0x00);
+			break;
+	}
 }
 
 void FlashModeSOS() {
+	switch (uBlinkState) {
+		case BlinkStateOn:
+			timBlinking500.enable = ENABLE;
+			SolidFill(0xFF);
+			if (timBlinking500.tick && uSosCount < 2) {
+				uBlinkState = BlinkStateOff;
+				uSosCount++;
+			}
+			if (timBlinking500.tick && uSosCount < 2) {
+				uBlinkState = BlinkStateOff;
+			}
+			break;
+		default:
+			break;
+	}
+}
 
+void FlashReset () {
+	timBlinking500.enable = DISABLE;
+	uBlinkState = BlinkStateOn;
+	SolidFill(0x00);
+}
+
+void FlashInit() {
+	Timer_Append(&timBlinking500);
+	Timer_Append(&timBlinking200);
 }
